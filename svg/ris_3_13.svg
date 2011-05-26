@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="21.994cm" height="10.480cm" viewBox="-0.011 6.270 21.983 16.750"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="4.100" y="13.160" width="17.800" height="3.540" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="5.150" y="13.960" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="5.150" y="13.960" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="6.025" y="15.105"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<rect x="7.965" y="14.005" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.965" y="14.005" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="8.840" y="15.150"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<rect x="10.580" y="14.000" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="10.580" y="14.000" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="11.455" y="15.145"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<rect x="13.365" y="14.015" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="13.365" y="14.015" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="14.240" y="15.160"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<rect x="16.030" y="14.010" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="16.030" y="14.010" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="16.905" y="15.155"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<rect x="18.845" y="14.005" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="18.845" y="14.005" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="19.720" y="15.150"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<text x="1.856" y="14.205"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Хромосома</text>
+<text x="1.856" y="15.005"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+после</text>
+<text x="1.856" y="15.805"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+мутации</text>
+<line x1="14.273" y1="9.075" x2="14.242" y2="13.792" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="13.994,13.402 14.241,13.903 14.494,13.405 "/>
+<rect x="4.133" y="6.320" width="17.800" height="3.540" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="5.183" y="7.120" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="5.183" y="7.120" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="6.058" y="8.265"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<rect x="7.998" y="7.165" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.998" y="7.165" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="8.873" y="8.310"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<rect x="10.613" y="7.160" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="10.613" y="7.160" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="11.488" y="8.305"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<rect x="13.398" y="7.175" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="13.398" y="7.175" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="14.273" y="8.320"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<rect x="16.063" y="7.170" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="16.063" y="7.170" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="16.938" y="8.315"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<rect x="18.878" y="7.165" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="18.878" y="7.165" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="19.753" y="8.310"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<text x="1.939" y="7.515"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Хромосома</text>
+<text x="1.939" y="8.315"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+до</text>
+<text x="1.939" y="9.115"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+мутации</text>
+</svg>

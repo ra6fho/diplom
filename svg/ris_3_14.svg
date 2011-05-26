@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="34.045cm" height="59.575cm" viewBox="5.200 2.200 39.245 61.775"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<path stroke="none" fill="#FFFFFF" stroke-width="0.100" d="M 20.067,2.250 L 25.933,2.250 C 26.743,2.250 27.400,2.877 27.400,3.650 C 27.400,4.423 26.743,5.050 25.933,5.050 L 20.067,5.050 C 19.257,5.050 18.600,4.423 18.600,3.650 C 18.600,2.877 19.257,2.250 20.067,2.250 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 20.067,2.250 L 25.933,2.250 C 26.743,2.250 27.400,2.877 27.400,3.650 C 27.400,4.423 26.743,5.050 25.933,5.050 L 20.067,5.050 C 19.257,5.050 18.600,4.423 18.600,3.650 C 18.600,2.877 19.257,2.250 20.067,2.250 "/>
+<text x="23.000" y="3.850"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Начало</text>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="19.355,7.200 27.750,7.200 26.704,10.075 18.309,10.075 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="19.355,7.200 27.750,7.200 26.704,10.075 18.309,10.075 "/>
+<text x="23.029" y="8.432"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Искомая популяция</text>
+<text x="23.029" y="9.232"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+хромосом</text>
+<line x1="23.009" y1="5.100" x2="23.019" y2="6.927" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="22.767,6.540 23.020,7.039 23.267,6.537 "/>
+<rect x="19.400" y="12.950" width="7.300" height="2.950" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="19.400" y="12.950" width="7.300" height="2.950" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="23.050" y="14.220"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Декодирование</text>
+<text x="23.050" y="15.020"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+хромосом</text>
+<line x1="23.036" y1="10.125" x2="23.049" y2="12.726" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="22.797,12.339 23.049,12.838 23.297,12.337 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="18.793,18.120 28.552,18.120 27.278,21.620 17.519,21.620 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="18.793,18.120 28.552,18.120 27.278,21.620 17.519,21.620 "/>
+<text x="23.036" y="19.265"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Множество нейронных</text>
+<text x="23.036" y="20.065"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+сетей с заданными</text>
+<text x="23.036" y="20.865"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+весами</text>
+<line x1="23.050" y1="15.900" x2="23.043" y2="17.847" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="22.794,17.457 23.043,17.958 23.294,17.459 "/>
+<line x1="23.027" y1="21.670" x2="23.015" y2="24.221" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="22.767,23.832 23.015,24.333 23.267,23.834 "/>
+<rect x="14.950" y="11.900" width="16.200" height="10.600" fill="none" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.10,0.10"/>
+<text x="32.300" y="17.200"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Генотип -&gt; Фенотип</text>
+<rect x="14.925" y="24.488" width="16.150" height="5.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="14.925" y="24.488" width="16.150" height="5.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="23.000" y="25.633"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Расчет абсолютной</text>
+<text x="23.000" y="26.433"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+среднеквадратичной погрешности</text>
+<text x="23.000" y="27.233"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+между фактическим и заданным значением</text>
+<text x="23.000" y="28.033"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+на выходах сетей</text>
+<text x="23.000" y="28.833"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+на основе обучающих эталонов,</text>
+<text x="23.000" y="29.633"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+подаваемых в каждую сеть</text>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="16.096,32.570 31.121,32.570 30.075,35.445 15.050,35.445 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="16.096,32.570 31.121,32.570 30.075,35.445 15.050,35.445 "/>
+<text x="23.086" y="33.803"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Значение функции приспособленности</text>
+<text x="23.086" y="34.602"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+каждой хромосомы в популяции</text>
+<line x1="23.000" y1="30.387" x2="23.045" y2="32.297" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="22.786,31.915 23.048,32.409 23.286,31.903 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="23.057,37.801 31.797,39.987 23.057,42.172 14.317,39.987 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="23.057,37.801 31.797,39.987 23.057,42.172 14.317,39.987 "/>
+<text x="23.057" y="39.782"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Условие завершения</text>
+<text x="23.057" y="40.582"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+выполнено</text>
+<line x1="23.074" y1="35.494" x2="23.059" y2="37.578" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="22.812,37.188 23.058,37.690 23.312,37.192 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="30.161,44.858 38.556,44.858 37.510,47.733 29.115,47.733 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="30.161,44.858 38.556,44.858 37.510,47.733 29.115,47.733 "/>
+<text x="33.836" y="46.090"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+&quot;Наилучшая&quot;</text>
+<text x="33.836" y="46.890"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+комбинация весов</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="31.797,39.987 31.797,40.013 33.836,40.013 33.836,44.585 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="33.586,44.197 33.836,44.697 34.086,44.197 "/>
+<path stroke="none" fill="#FFFFFF" stroke-width="0.100" d="M 30.832,49.945 L 36.698,49.945 C 37.508,49.945 38.165,50.572 38.165,51.345 C 38.165,52.118 37.508,52.745 36.698,52.745 L 30.832,52.745 C 30.022,52.745 29.365,52.118 29.365,51.345 C 29.365,50.572 30.022,49.945 30.832,49.945 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 30.832,49.945 L 36.698,49.945 C 37.508,49.945 38.165,50.572 38.165,51.345 C 38.165,52.118 37.508,52.745 36.698,52.745 L 30.832,52.745 C 30.022,52.745 29.365,52.118 29.365,51.345 C 29.365,50.572 30.022,49.945 30.832,49.945 "/>
+<text x="33.765" y="51.545"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Конец</text>
+<line x1="33.815" y1="47.783" x2="33.788" y2="49.671" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="33.544,49.280 33.787,49.783 34.044,49.287 "/>
+<rect x="7.850" y="44.650" width="8.750" height="3.050" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.850" y="44.650" width="8.750" height="3.050" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="12.225" y="45.970"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Селекция</text>
+<text x="12.225" y="46.770"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+хромосом</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="14.317,39.987 14.317,39.962 12.225,39.962 12.225,44.426 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="11.975,44.038 12.225,44.538 12.475,44.038 "/>
+<rect x="7.815" y="49.983" width="8.750" height="3.500" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.815" y="49.983" width="8.750" height="3.500" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="12.190" y="51.128"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Применение</text>
+<text x="12.190" y="51.928"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+генетических</text>
+<text x="12.190" y="52.727"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+операторов</text>
+<line x1="12.215" y1="47.750" x2="12.203" y2="49.709" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="11.955,49.319 12.202,49.821 12.455,49.322 "/>
+<rect x="7.815" y="55.820" width="8.750" height="3.500" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.815" y="55.820" width="8.750" height="3.500" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="12.190" y="56.965"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Создание</text>
+<text x="12.190" y="57.765"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+новой</text>
+<text x="12.190" y="58.565"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+популяции</text>
+<line x1="12.190" y1="53.533" x2="12.190" y2="55.546" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="11.940,55.158 12.190,55.658 12.440,55.158 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="12.190,59.320 12.250,61.725 5.250,61.675 5.250,10.925 21.200,10.875 21.222,12.726 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="20.968,12.341 21.224,12.838 21.468,12.335 "/>
+<text x="32.150" y="39.462"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Да</text>
+<text x="12.900" y="39.413"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Нет</text>
+</svg>

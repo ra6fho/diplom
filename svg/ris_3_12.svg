@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="29.400cm" height="20.913cm" viewBox="-0.450 0.800 28.950 21.713"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="4.050" y="2.050" width="17.800" height="6.850" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="4.050" y="2.050" width="17.800" height="6.850" fill="none" stroke="#000000" stroke-width="0.100" />
+<line x1="4.050" y1="5.475" x2="12.950" y2="5.475" stroke="#000000" stroke-width="0.100" />
+<line x1="21.850" y1="5.475" x2="12.950" y2="5.475" stroke="#000000" stroke-width="0.100" />
+<rect x="5.100" y="2.850" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="5.100" y="2.850" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="5.975" y="3.995"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<rect x="7.915" y="2.895" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.915" y="2.895" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="8.790" y="4.040"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<rect x="10.530" y="2.890" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="10.530" y="2.890" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="11.405" y="4.035"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<rect x="13.315" y="2.905" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="13.315" y="2.905" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="14.190" y="4.050"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<rect x="15.980" y="2.900" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="15.980" y="2.900" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="16.855" y="4.045"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<rect x="18.795" y="2.895" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="18.795" y="2.895" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="19.670" y="4.040"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<line x1="12.700" y1="0.850" x2="12.650" y2="10.200" stroke="#000000" stroke-width="0.100" stroke-dasharray="1.00,0.30,0.10,0.30,0.10,0.30"/>
+<text x="11.800" y="10.850"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+локус</text>
+<rect x="5.100" y="6.160" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="5.100" y="6.160" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="5.975" y="7.305"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<rect x="7.915" y="6.205" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.915" y="6.205" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="8.790" y="7.350"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<rect x="10.530" y="6.200" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="10.530" y="6.200" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="11.405" y="7.345"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<rect x="13.315" y="6.215" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="13.315" y="6.215" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="14.190" y="7.360"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<rect x="15.980" y="6.210" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="15.980" y="6.210" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="16.855" y="7.355"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<rect x="18.795" y="6.205" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="18.795" y="6.205" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="19.670" y="7.350"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<rect x="4.100" y="12.760" width="17.800" height="6.850" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="4.100" y="12.760" width="17.800" height="6.850" fill="none" stroke="#000000" stroke-width="0.100" />
+<line x1="4.100" y1="16.185" x2="13.000" y2="16.185" stroke="#000000" stroke-width="0.100" />
+<line x1="21.900" y1="16.185" x2="13.000" y2="16.185" stroke="#000000" stroke-width="0.100" />
+<rect x="5.150" y="13.560" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="5.150" y="13.560" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="6.025" y="14.705"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<rect x="7.965" y="13.605" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.965" y="13.605" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="8.840" y="14.750"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<rect x="10.580" y="13.600" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="10.580" y="13.600" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="11.455" y="14.745"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<rect x="13.365" y="13.615" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="13.365" y="13.615" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="14.240" y="14.760"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<rect x="16.030" y="13.610" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="16.030" y="13.610" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="16.905" y="14.755"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<rect x="18.845" y="13.605" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="18.845" y="13.605" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="19.720" y="14.750"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<line x1="12.750" y1="11.560" x2="12.700" y2="20.910" stroke="#000000" stroke-width="0.100" stroke-dasharray="1.00,0.30,0.10,0.30,0.10,0.30"/>
+<text x="11.850" y="21.560"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+локус</text>
+<rect x="5.150" y="16.870" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="5.150" y="16.870" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="6.025" y="18.015"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<rect x="7.965" y="16.915" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.965" y="16.915" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="8.840" y="18.060"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<rect x="10.580" y="16.910" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="10.580" y="16.910" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="11.455" y="18.055"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<rect x="13.365" y="16.925" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="13.365" y="16.925" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="14.240" y="18.070"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<rect x="16.030" y="16.920" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="16.030" y="16.920" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="16.905" y="18.065"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<rect x="18.845" y="16.915" width="1.750" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="18.845" y="16.915" width="1.750" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="19.720" y="18.060"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<rect x="12.950" y="2.500" width="8.150" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.10,0.10"/>
+<rect x="12.950" y="5.860" width="8.150" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.10,0.10"/>
+<rect x="13.000" y="13.210" width="8.150" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.10,0.10"/>
+<rect x="13.000" y="16.520" width="8.150" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.10,0.10"/>
+<line x1="4.050" y1="5.475" x2="-0.400" y2="5.450" stroke="#000000" stroke-width="0.100" />
+<text x="1.850" y="3.500"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Первый</text>
+<text x="1.850" y="4.300"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+родитель</text>
+<text x="1.806" y="6.905"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Второй</text>
+<text x="1.806" y="7.705"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+родитель</text>
+<text x="2.006" y="14.305"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Первый</text>
+<text x="2.006" y="15.105"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+потомок</text>
+<text x="2.069" y="17.605"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Второй</text>
+<text x="2.069" y="18.405"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+потомок</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="17.025,2.500 17.025,0.900 28.900,0.900 28.900,21.100 17.075,21.100 17.075,19.444 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="17.325,19.832 17.075,19.332 16.825,19.832 "/>
+<line x1="17.025" y1="8.560" x2="17.073" y2="12.986" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="16.819,12.601 17.074,13.098 17.319,12.596 "/>
+<line x1="4.100" y1="16.185" x2="-0.350" y2="16.185" stroke="#000000" stroke-width="0.100" />
+</svg>

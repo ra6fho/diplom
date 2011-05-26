@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="30.661cm" height="8.874cm" viewBox="2.389 3.555 33.050 12.429"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<ellipse cx="20.272" cy="9.548" rx="3.178" ry="1.352" fill="#FFFFFF" stroke="none"  /><ellipse cx="20.272" cy="9.548" rx="3.178" ry="1.352" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="20.272" y="9.743"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+ГА</text>
+<rect x="2.439" y="4.350" width="5.823" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="2.439" y="4.350" width="5.823" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="5.350" y="5.495"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Пользователь</text>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M 19.099,8.059 A 11.960,11.960 0 0,0 8.308,4.390 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="18.656,7.934 19.175,8.141 19.029,7.602 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M 18.089,8.353 A 29.547,29.547 0 0,0 8.311,5.484 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="17.630,8.401 18.189,8.403 17.855,7.955 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M 7.046,6.300 A 26.951,26.951 0 0,0 16.841,9.379 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="16.428,9.588 16.952,9.392 16.481,9.091 "/>
+<line x1="26.550" y1="6.000" x2="31.700" y2="6.000" stroke="#000000" stroke-width="0.100" />
+<text x="25.400" y="5.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Настройки программы</text>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M 23.496,9.617 A 8.541,8.541 0 0,0 28.997,6.183 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="28.988,6.646 29.062,6.092 28.574,6.365 "/>
+<text x="13.100" y="4.150"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+PS</text>
+<text x="12.300" y="5.850"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+MC</text>
+<text x="11.900" y="7.600"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+MR</text>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M 5.978,6.246 A 11.280,11.280 0 0,0 17.649,10.525 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="17.336,10.866 17.758,10.499 17.211,10.382 "/>
+<text x="11.700" y="9.850"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+ST</text>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M 5.598,6.300 A 8.662,8.662 0 0,0 18.669,10.925 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="18.498,11.356 18.762,10.863 18.210,10.947 "/>
+<text x="11.450" y="11.650"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+ET</text>
+</svg>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="21.600cm" height="16.807cm" viewBox="12.265 4.975 33.865 21.782"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="18.600" y="5.025" width="8.850" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="18.600" y="5.025" width="8.850" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="23.025" y="6.170"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+N особей</text>
+<text x="23.025" y="6.970"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+популяции P(k)</text>
+<rect x="12.350" y="10.150" width="6.150" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="12.350" y="10.150" width="6.150" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="15.425" y="11.295"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+2 особи</text>
+<rect x="27.665" y="10.145" width="6.150" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="27.665" y="10.145" width="6.150" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="30.740" y="11.290"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+2 особи</text>
+<rect x="12.315" y="14.195" width="6.150" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="12.315" y="14.195" width="6.150" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="15.390" y="15.340"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1 &quot;наилучшая</text>
+<text x="15.390" y="16.140"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+особь&quot;</text>
+<rect x="27.665" y="14.283" width="6.150" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="27.665" y="14.283" width="6.150" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="30.740" y="15.428"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1 &quot;наилучшая</text>
+<text x="30.740" y="16.227"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+особь&quot;</text>
+<rect x="18.665" y="19.032" width="8.850" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="18.665" y="19.032" width="8.850" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="23.090" y="20.177"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Родительский пул</text>
+<text x="23.090" y="20.977"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+M(k); N особей</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="20.812,7.725 20.812,8.938 15.425,8.938 15.425,9.926 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="15.175,9.538 15.425,10.038 15.675,9.538 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="25.238,7.725 25.238,8.935 30.740,8.935 30.740,9.921 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="30.490,9.533 30.740,10.033 30.990,9.533 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="15.390,16.895 15.390,17.964 20.877,17.964 20.877,18.809 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="20.627,18.421 20.877,18.921 21.127,18.421 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="30.740,16.983 30.740,18.008 25.303,18.008 25.303,18.809 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="25.053,18.421 25.303,18.921 25.553,18.421 "/>
+<line x1="15.425" y1="12.050" x2="15.394" y2="13.971" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="15.150,13.579 15.392,14.083 15.650,13.587 "/>
+<line x1="30.740" y1="12.045" x2="30.740" y2="14.059" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="30.490,13.671 30.740,14.171 30.990,13.671 "/>
+</svg>

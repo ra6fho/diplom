@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="43.850cm" height="16.629cm" viewBox="4.250 -3.907 48.100 12.722"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<ellipse cx="27.147" cy="8.173" rx="5.153" ry="2.127" fill="#FFFFFF" stroke="none"  /><ellipse cx="27.147" cy="8.173" rx="5.153" ry="2.127" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="27.147" y="8.368"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Программный комплекс</text>
+<rect x="4.300" y="1.587" width="7.250" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="4.300" y="1.587" width="7.250" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="7.925" y="2.732"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Пользователь</text>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M 8.531,3.538 A 14.217,14.217 0 0,0 23.018,9.642 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="22.689,9.967 23.128,9.621 22.588,9.477 "/>
+<text x="13.550" y="7.737"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Изображение лица</text>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M 8.014,3.537 A 10.576,10.576 0 0,0 25.115,10.341 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="24.979,10.784 25.202,10.271 24.658,10.401 "/>
+<text x="13.800" y="11.100"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Параметры ГА</text>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M 26.176,6.040 A 12.276,12.276 0 0,0 9.593,1.427 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="9.803,1.015 9.495,1.481 10.053,1.448 "/>
+<text x="13.300" y="-0.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Расположение лица</text>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M 27.157,5.997 A 10.168,10.168 0 0,0 8.614,1.351 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="8.612,0.888 8.551,1.444 9.032,1.159 "/>
+<line x1="40.850" y1="5.000" x2="46.950" y2="5.050" stroke="#000000" stroke-width="0.100" />
+<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M 31.200,9.677 A 13.131,13.131 0 0,0 43.758,5.198 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="43.711,5.658 43.830,5.112 43.321,5.344 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="31.631,9.514 31.091,9.656 31.528,10.003 "/>
+<text x="40.450" y="4.600"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Настройки программы</text>
+<text x="11.250" y="-3.312"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Принадлежность лица пользователю</text>
+</svg>

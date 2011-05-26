@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="34.970cm" height="17.992cm" viewBox="11.100 1.015 46.070 19.008"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="18.100" y="1.100" width="8.850" height="2.850" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="18.100" y="1.100" width="8.850" height="2.850" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="19.900" y="1.600" width="2.000" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="19.900" y="1.600" width="2.000" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="20.900" y="2.745"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Σ</text>
+<ellipse cx="24.565" cy="2.516" rx="0.980" ry="0.977" fill="#FFFFFF" stroke="none"  /><ellipse cx="24.565" cy="2.516" rx="0.980" ry="0.977" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="24.565" y="2.711"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+F</text>
+<line x1="21.900" y1="2.550" x2="23.362" y2="2.520" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="22.979,2.778 23.474,2.518 22.969,2.278 "/>
+<line x1="25.545" y1="2.516" x2="26.726" y2="2.524" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="26.337,2.771 26.838,2.524 26.340,2.271 "/>
+<line x1="18.100" y1="2.525" x2="19.626" y2="2.539" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="19.236,2.785 19.738,2.540 19.240,2.285 "/>
+<ellipse cx="12.575" cy="2.475" rx="1.425" ry="1.375" fill="#FFFFFF" stroke="none"  /><ellipse cx="12.575" cy="2.475" rx="1.425" ry="1.375" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="12.575" y="2.670"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+X1</text>
+<ellipse cx="12.580" cy="7.447" rx="1.425" ry="1.375" fill="#FFFFFF" stroke="none"  /><ellipse cx="12.580" cy="7.447" rx="1.425" ry="1.375" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="12.580" y="7.643"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+X2</text>
+<ellipse cx="12.635" cy="17.532" rx="1.425" ry="1.375" fill="#FFFFFF" stroke="none"  /><ellipse cx="12.635" cy="17.532" rx="1.425" ry="1.375" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="12.635" y="17.727"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Xn</text>
+<rect x="18.105" y="6.022" width="8.850" height="2.850" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="18.105" y="6.022" width="8.850" height="2.850" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="19.905" y="6.522" width="2.000" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="19.905" y="6.522" width="2.000" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="20.905" y="7.668"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Σ</text>
+<ellipse cx="24.571" cy="7.438" rx="0.980" ry="0.977" fill="#FFFFFF" stroke="none"  /><ellipse cx="24.571" cy="7.438" rx="0.980" ry="0.977" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="24.571" y="7.633"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+F</text>
+<line x1="21.905" y1="7.473" x2="23.367" y2="7.443" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="22.984,7.701 23.479,7.441 22.974,7.201 "/>
+<line x1="25.550" y1="7.438" x2="26.732" y2="7.446" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="26.342,7.693 26.844,7.447 26.345,7.193 "/>
+<line x1="18.105" y1="7.447" x2="19.631" y2="7.461" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="19.241,7.708 19.743,7.462 19.246,7.208 "/>
+<rect x="18.110" y="16.108" width="8.850" height="2.850" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="18.110" y="16.108" width="8.850" height="2.850" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="19.910" y="16.608" width="2.000" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="19.910" y="16.608" width="2.000" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="20.910" y="17.753"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Σ</text>
+<ellipse cx="24.576" cy="17.523" rx="0.980" ry="0.977" fill="#FFFFFF" stroke="none"  /><ellipse cx="24.576" cy="17.523" rx="0.980" ry="0.977" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="24.576" y="17.718"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+F</text>
+<line x1="21.910" y1="17.558" x2="23.372" y2="17.528" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="22.989,17.786 23.484,17.525 22.979,17.286 "/>
+<line x1="25.555" y1="17.523" x2="26.737" y2="17.531" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="26.347,17.778 26.849,17.532 26.350,17.278 "/>
+<line x1="18.110" y1="17.532" x2="19.636" y2="17.546" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="19.246,17.793 19.748,17.547 19.251,17.293 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 14.000,2.475 C 15.361,2.475 16.739,2.525 17.876,2.525 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="17.488,2.775 17.988,2.525 17.488,2.275 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 14.000,2.475 C 15.363,2.475 16.742,7.447 17.882,7.447 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="17.494,7.697 17.994,7.447 17.494,7.197 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 14.000,2.475 C 15.365,2.475 16.746,17.532 17.887,17.532 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="17.499,17.782 17.999,17.532 17.499,17.282 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 14.060,17.532 C 16.907,17.532 15.214,17.532 17.837,17.532 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="17.449,17.782 17.949,17.532 17.449,17.282 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 14.060,17.532 C 15.436,17.532 16.729,7.447 17.882,7.447 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="17.494,7.697 17.994,7.447 17.494,7.197 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 14.060,17.532 C 15.434,17.532 16.726,2.525 17.876,2.525 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="17.488,2.775 17.988,2.525 17.488,2.275 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 14.005,7.447 C 15.381,7.447 16.724,2.525 17.876,2.525 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="17.488,2.775 17.988,2.525 17.488,2.275 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 14.054,7.447 C 15.905,7.447 16.254,7.447 17.882,7.447 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="17.494,7.697 17.994,7.447 17.494,7.197 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 14.005,7.447 C 15.385,7.447 16.731,17.532 17.887,17.532 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="17.499,17.782 17.999,17.532 17.499,17.282 "/>
+<text x="12.550" y="10.700"  fill="#000000" text-anchor="start" font-size="1.79" font-family="sans" font-style="normal" font-weight="400">
+.</text>
+<text x="12.550" y="12.488"  fill="#000000" text-anchor="start" font-size="1.79" font-family="sans" font-style="normal" font-weight="400">
+.</text>
+<text x="12.550" y="14.276"  fill="#000000" text-anchor="start" font-size="1.79" font-family="sans" font-style="normal" font-weight="400">
+.</text>
+<text x="22.455" y="10.615"  fill="#000000" text-anchor="start" font-size="1.79" font-family="sans" font-style="normal" font-weight="400">
+.</text>
+<text x="22.455" y="12.403"  fill="#000000" text-anchor="start" font-size="1.79" font-family="sans" font-style="normal" font-weight="400">
+.</text>
+<text x="22.455" y="14.191"  fill="#000000" text-anchor="start" font-size="1.79" font-family="sans" font-style="normal" font-weight="400">
+.</text>
+<rect x="31.155" y="1.085" width="8.850" height="2.850" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="31.155" y="1.085" width="8.850" height="2.850" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="32.955" y="1.585" width="2.000" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="32.955" y="1.585" width="2.000" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="33.955" y="2.730"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Σ</text>
+<ellipse cx="37.621" cy="2.501" rx="0.980" ry="0.977" fill="#FFFFFF" stroke="none"  /><ellipse cx="37.621" cy="2.501" rx="0.980" ry="0.977" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="37.621" y="2.696"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+F</text>
+<line x1="34.955" y1="2.535" x2="36.417" y2="2.505" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="36.034,2.763 36.529,2.503 36.024,2.263 "/>
+<line x1="38.600" y1="2.501" x2="39.782" y2="2.509" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="39.392,2.756 39.894,2.509 39.395,2.256 "/>
+<line x1="31.155" y1="2.510" x2="32.681" y2="2.524" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="32.291,2.770 32.793,2.525 32.296,2.270 "/>
+<rect x="31.160" y="6.020" width="8.850" height="2.850" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="31.160" y="6.020" width="8.850" height="2.850" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="32.960" y="6.520" width="2.000" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="32.960" y="6.520" width="2.000" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="33.960" y="7.665"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Σ</text>
+<ellipse cx="37.626" cy="7.436" rx="0.980" ry="0.977" fill="#FFFFFF" stroke="none"  /><ellipse cx="37.626" cy="7.436" rx="0.980" ry="0.977" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="37.626" y="7.631"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+F</text>
+<line x1="34.960" y1="7.470" x2="36.422" y2="7.440" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="36.039,7.698 36.534,7.438 36.029,7.198 "/>
+<line x1="38.605" y1="7.436" x2="39.787" y2="7.444" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="39.397,7.691 39.899,7.444 39.400,7.191 "/>
+<line x1="31.160" y1="7.445" x2="32.686" y2="7.459" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="32.296,7.705 32.798,7.460 32.301,7.205 "/>
+<rect x="31.065" y="16.105" width="8.850" height="2.850" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="31.065" y="16.105" width="8.850" height="2.850" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="32.865" y="16.605" width="2.000" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="32.865" y="16.605" width="2.000" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="33.865" y="17.750"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Σ</text>
+<ellipse cx="37.531" cy="17.521" rx="0.980" ry="0.977" fill="#FFFFFF" stroke="none"  /><ellipse cx="37.531" cy="17.521" rx="0.980" ry="0.977" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="37.531" y="17.716"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+F</text>
+<line x1="34.865" y1="17.555" x2="36.327" y2="17.525" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="35.944,17.783 36.439,17.523 35.934,17.283 "/>
+<line x1="38.511" y1="17.521" x2="39.692" y2="17.529" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="39.302,17.776 39.804,17.529 39.305,17.276 "/>
+<line x1="31.065" y1="17.530" x2="32.591" y2="17.544" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="32.201,17.790 32.703,17.545 32.206,17.290 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 26.950,2.525 C 28.346,2.525 29.759,2.510 30.932,2.510 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="30.544,2.760 31.044,2.510 30.544,2.260 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 26.950,2.525 C 28.348,2.525 29.763,7.445 30.937,7.445 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="30.549,7.695 31.049,7.445 30.549,7.195 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 26.950,2.525 C 28.316,2.525 29.699,17.530 30.842,17.530 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="30.454,17.780 30.954,17.530 30.454,17.280 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 26.955,7.447 C 28.350,7.447 29.761,2.510 30.932,2.510 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="30.544,2.760 31.044,2.510 30.544,2.260 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 26.955,7.447 C 28.352,7.447 29.764,7.445 30.937,7.445 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="30.549,7.695 31.049,7.445 30.549,7.195 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 26.955,7.447 C 28.320,7.447 29.701,17.530 30.842,17.530 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="30.454,17.780 30.954,17.530 30.454,17.280 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 26.960,17.532 C 28.353,17.532 29.763,2.510 30.932,2.510 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="30.544,2.760 31.044,2.510 30.544,2.260 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 26.960,17.532 C 28.355,17.532 29.766,7.445 30.937,7.445 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="30.549,7.695 31.049,7.445 30.549,7.195 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 26.960,17.532 C 28.323,17.532 29.703,17.530 30.842,17.530 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="30.454,17.780 30.954,17.530 30.454,17.280 "/>
+<line x1="40.005" y1="2.510" x2="42.946" y2="2.445" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="42.564,2.703 43.058,2.442 42.553,2.204 "/>
+<line x1="40.010" y1="7.445" x2="42.866" y2="7.483" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="42.475,7.727 42.978,7.484 42.482,7.228 "/>
+<line x1="39.915" y1="17.530" x2="42.936" y2="17.521" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="42.549,17.772 43.048,17.520 42.547,17.272 "/>
+<ellipse cx="44.595" cy="2.440" rx="1.425" ry="1.375" fill="#FFFFFF" stroke="none"  /><ellipse cx="44.595" cy="2.440" rx="1.425" ry="1.375" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="44.595" y="2.635"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Y1</text>
+<ellipse cx="44.565" cy="7.505" rx="1.425" ry="1.375" fill="#FFFFFF" stroke="none"  /><ellipse cx="44.565" cy="7.505" rx="1.425" ry="1.375" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="44.565" y="7.700"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Y1</text>
+<ellipse cx="44.585" cy="17.520" rx="1.425" ry="1.375" fill="#FFFFFF" stroke="none"  /><ellipse cx="44.585" cy="17.520" rx="1.425" ry="1.375" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="44.585" y="17.715"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Ym</text>
+<text x="35.370" y="10.645"  fill="#000000" text-anchor="start" font-size="1.79" font-family="sans" font-style="normal" font-weight="400">
+.</text>
+<text x="35.370" y="12.433"  fill="#000000" text-anchor="start" font-size="1.79" font-family="sans" font-style="normal" font-weight="400">
+.</text>
+<text x="35.370" y="14.221"  fill="#000000" text-anchor="start" font-size="1.79" font-family="sans" font-style="normal" font-weight="400">
+.</text>
+<text x="44.340" y="10.810"  fill="#000000" text-anchor="start" font-size="1.79" font-family="sans" font-style="normal" font-weight="400">
+.</text>
+<text x="44.340" y="12.598"  fill="#000000" text-anchor="start" font-size="1.79" font-family="sans" font-style="normal" font-weight="400">
+.</text>
+<text x="44.340" y="14.386"  fill="#000000" text-anchor="start" font-size="1.79" font-family="sans" font-style="normal" font-weight="400">
+.</text>
+</svg>

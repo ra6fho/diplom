@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="57.600cm" height="78.500cm" viewBox="19.950 -37.800 77.550 40.700"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="20.100" y="-29.900" width="45.545" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="20.100" y="-29.900" width="45.545" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="42.873" y="-28.950"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+CNN</text>
+<rect x="20.100" y="-28.500" width="45.545" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="20.100" y="-28.500" width="45.545" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="20.100" y="-28.100" width="45.545" height="5.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="20.100" y="-28.100" width="45.545" height="5.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="20.250" y="-27.400"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++convolution(kernel:vfloat2d&amp;amp;,bias:float,input:vfloat2d&amp;amp;): static vfloat2d </text>
+<text x="20.250" y="-26.600"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++subsampling(input:vfloat2d&amp;amp;,bias:float,weight:float): static vfloat2d </text>
+<text x="20.250" y="-25.800"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++conv_and_subs(input:vfloat2d&amp;amp;,c_kernel:vfloat2d&amp;amp;,c_bias:float,s_bias:float,s_weight:float): static vfloat2d </text>
+<text x="20.250" y="-25.000"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++sum_fmaps(fmap1:vfloat2d&amp;amp;,fmap2:vfloat2d&amp;amp;): static vfloat2d </text>
+<text x="20.250" y="-24.200"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++convolution_net(input:vfloat2d&amp;amp;,data:cnn_data&amp;amp;): static float </text>
+<text x="20.250" y="-23.400"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++cnn_data_to_vfloat(data:cnn_data&amp;amp;): static vfloat </text>
+<text x="20.250" y="-22.600"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++vfloat_to_cnn_data(data:vfloat&amp;amp;): static cnn_data </text>
+<rect x="50.425" y="19.850" width="19.750" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="50.425" y="19.850" width="19.750" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="60.300" y="20.800"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+QOpenCVWidget</text>
+<rect x="50.425" y="21.250" width="19.750" height="3.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="50.425" y="21.250" width="19.750" height="3.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="50.575" y="21.950"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+-imagelabel: QLabel *</text>
+<text x="50.575" y="22.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+-layout: QVBoxLayout *</text>
+<text x="50.575" y="23.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++image: QImage </text>
+<text x="50.575" y="24.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++old_point: QPoint </text>
+<rect x="50.425" y="24.650" width="19.750" height="4.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="50.425" y="24.650" width="19.750" height="4.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="50.575" y="25.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++QOpenCVWidget(parent:QWidget*)</text>
+<text x="50.575" y="26.150"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++~QOpenCVWidget(d:voi)</text>
+<text x="50.575" y="26.950"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++putImage(e:IplImag): void </text>
+<text x="50.575" y="27.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recognizeImage(cvimage:IplImage*): void </text>
+<text x="50.575" y="28.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++find_face(image:QImage,path_net:QString): QPoint </text>
+<rect x="20.150" y="-37.750" width="15.515" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="20.150" y="-37.750" width="15.515" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="27.907" y="-36.800"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+ActFun</text>
+<rect x="20.150" y="-36.350" width="15.515" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="20.150" y="-36.350" width="15.515" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="20.150" y="-35.950" width="15.515" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="20.150" y="-35.950" width="15.515" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="20.300" y="-35.250"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++activation(value:float): static float </text>
+<rect x="37.625" y="-37.700" width="28.990" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="37.625" y="-37.700" width="28.990" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="52.120" y="-36.750"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Imaging</text>
+<rect x="37.625" y="-36.300" width="28.990" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="37.625" y="-36.300" width="28.990" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="37.625" y="-35.900" width="28.990" height="3.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="37.625" y="-35.900" width="28.990" height="3.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="37.775" y="-35.200"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++toNeuro(img:QImage,height:int,width:int): static QImage </text>
+<text x="37.775" y="-34.400"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++open_image(image:QImage): static vfloat2d </text>
+<text x="37.775" y="-33.600"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++toGrayscale(img:QImage): static QImage </text>
+<text x="37.775" y="-32.800"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++drawRect(img:QImage&amp;amp;,width:int,height:int,length:int): static QImage </text>
+<rect x="38.650" y="-18.900" width="34.380" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="38.650" y="-18.900" width="34.380" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="55.840" y="-17.950"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+RND</text>
+<rect x="38.650" y="-17.500" width="34.380" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="38.650" y="-17.500" width="34.380" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="38.650" y="-17.100" width="34.380" height="3.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="38.650" y="-17.100" width="34.380" height="3.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="38.800" y="-16.400"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++get_randon_data(): static cnn_data </text>
+<text x="38.800" y="-15.600"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++random_vfloat2d(height:int,width:int,range_min:float,range_max:float): static vfloat2d </text>
+<text x="38.800" y="-14.800"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++random_float(range_min:float,range_max:float): static float </text>
+<text x="38.800" y="-14.000"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rand_A_B(A:int,B:int): static float </text>
+<rect x="55.800" y="-2.450" width="14.360" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="55.800" y="-2.450" width="14.360" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="62.980" y="-1.500"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+SRV</text>
+<rect x="55.800" y="-1.050" width="14.360" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="55.800" y="-1.050" width="14.360" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="55.800" y="-0.650" width="14.360" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="55.800" y="-0.650" width="14.360" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="55.950" y="0.050"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++min(a:float,b:float): static float </text>
+<text x="55.950" y="0.850"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++max(a:float,b:float): static float </text>
+<rect x="20.200" y="-2.550" width="34.765" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="20.200" y="-2.550" width="34.765" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="37.582" y="-1.600"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+RGA</text>
+<rect x="20.200" y="-1.150" width="34.765" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="20.200" y="-1.150" width="34.765" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="20.200" y="-0.750" width="34.765" height="6.600" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="20.200" y="-0.750" width="34.765" height="6.600" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="20.350" y="-0.050"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++best_chromosome(outputs:vfloat2d&amp;amp;,target:vfloat&amp;amp;): static int </text>
+<text x="20.350" y="0.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++random_blx(population:vfloat2d&amp;amp;,blx_koef:double): static vfloat2d </text>
+<text x="20.350" y="1.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tournament_selection(population:vfloat2d&amp;amp;,values:vfloat&amp;amp;): static vfloat2d </text>
+<text x="20.350" y="2.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++calculate_fitness(outputs:vfloat2d&amp;amp;,target:vfloat&amp;amp;): static vfloat </text>
+<text x="20.350" y="3.150"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++blx_a_crossover(chromosome1:vfloat&amp;amp;,chromosome2:vfloat&amp;amp;,A:float): static vfloat </text>
+<text x="20.350" y="3.950"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++population_mutation(population:vfloat2d&amp;amp;,chance:int): static vfloat2d </text>
+<text x="20.350" y="4.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++random_mutation(value:float): static float </text>
+<text x="20.350" y="5.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++fitness_neural(output:vfloat&amp;amp;,target:vfloat&amp;amp;): static float </text>
+<rect x="20.000" y="11.750" width="55.555" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="20.000" y="11.750" width="55.555" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="47.777" y="12.700"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Trainer</text>
+<rect x="20.000" y="13.150" width="55.555" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="20.000" y="13.150" width="55.555" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="20.000" y="13.550" width="55.555" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="20.000" y="13.550" width="55.555" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="20.150" y="14.250"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rga_train(in:list_vfloat2d&amp;amp;,target:vfloat2d&amp;amp;,population:vfloat2d&amp;amp;,rms_error:float,blx_koef:float,step:int,max_step:int): cnn_data </text>
+<text x="20.150" y="15.050"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++image_rga_train(faces_dir:QString,no_faces_dir:QString): cnn_data </text>
+<rect x="20.100" y="18.200" width="18.595" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="20.100" y="18.200" width="18.595" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="29.398" y="19.150"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+MyCameraWindow</text>
+<rect x="20.100" y="19.600" width="18.595" height="5.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="20.100" y="19.600" width="18.595" height="5.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="20.250" y="20.300"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+-cvwidget: QOpenCVWidget *</text>
+<text x="20.250" y="21.100"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+-camera: CvCapture *</text>
+<text x="20.250" y="21.900"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++image_table: QTableWidget *</text>
+<text x="20.250" y="22.700"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++names: QStringList </text>
+<text x="20.250" y="23.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++progress: QProgressBar *</text>
+<text x="20.250" y="24.300"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++learn_type: QComboBox *</text>
+<rect x="20.100" y="24.600" width="18.595" height="4.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="20.100" y="24.600" width="18.595" height="4.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="20.250" y="25.300"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++MyCameraWindow(cam:CvCapture*,parent:QWidget*)</text>
+<text x="20.250" y="26.100"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+#timerEvent(t:QTimerEven): void </text>
+<text x="20.250" y="26.900"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+-screen_shot(): void </text>
+<text x="20.250" y="27.700"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+-delete_images(): void </text>
+<text x="20.250" y="28.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+-start_train(): void </text>
+<rect x="24.075" y="-10.600" width="26.680" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="24.075" y="-10.600" width="26.680" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="37.415" y="-9.650"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+FCVector</text>
+<rect x="24.075" y="-9.200" width="26.680" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="24.075" y="-9.200" width="26.680" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="24.075" y="-8.800" width="26.680" height="4.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="24.075" y="-8.800" width="26.680" height="4.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="24.225" y="-8.100"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++vfloat2d_create(M:int,N:int): static vfloat2d </text>
+<text x="24.225" y="-7.300"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++vfloat_sum(vector1:vfloat&amp;amp;,vector2:vfloat&amp;amp;): static vfloat </text>
+<text x="24.225" y="-6.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++vfloat_sum_elem(vector:vfloat&amp;amp;): static float </text>
+<text x="24.225" y="-5.700"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++vfloat_pow(vector:vfloat&amp;amp;,power:double): static vfloat </text>
+<text x="24.225" y="-4.900"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++vfloat_sub(vector1:vfloat&amp;amp;,vector2:vfloat&amp;amp;): static vfloat </text>
+<rect x="26.125" y="35.450" width="22.445" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="26.125" y="35.450" width="22.445" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="37.347" y="36.400"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+FCFile</text>
+<rect x="26.125" y="36.850" width="22.445" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="26.125" y="36.850" width="22.445" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="26.125" y="37.250" width="22.445" height="3.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="26.125" y="37.250" width="22.445" height="3.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="26.275" y="37.950"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++openFaces(open_directory:QString): static list_vfloat2d </text>
+<text x="26.275" y="38.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++save_net(data:vfloat,path_save:QString): static void </text>
+<text x="26.275" y="39.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++load_net(path_load:QString): static vfloat </text>
+<text x="26.275" y="40.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++read_file(path:QString): static QStringList </text>
+<rect x="43.975" y="31.650" width="4.407" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="43.975" y="31.650" width="4.407" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="46.179" y="32.600"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+QWidget</text>
+<rect x="43.975" y="33.050" width="4.407" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="43.975" y="33.050" width="4.407" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="43.975" y="33.450" width="4.407" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="43.975" y="33.450" width="4.407" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="49.345,32.750 49.404,32.750 49.404,24.350 50.375,24.350 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="49.345,32.350 48.545,32.750 49.345,33.150 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="49.345,32.350 48.545,32.750 49.345,33.150 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="46.179,30.738 46.179,30.250 29.398,30.250 29.398,28.850 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="45.779,30.738 46.179,31.538 46.579,30.738 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="45.779,30.738 46.179,31.538 46.579,30.738 "/>
+<line x1="37.506" y1="-2.598" x2="37.474" y2="-4.327" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="37.731,-3.943 37.472,-4.438 37.231,-3.934 "/>
+<line x1="37.402" y1="-10.648" x2="37.351" y2="-22.126" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="37.603,-21.739 37.350,-22.238 37.103,-21.737 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="38.745,23.449 47.750,23.400 47.788,17.150 47.784,15.624 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="48.035,16.011 47.783,15.512 47.535,16.013 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="37.503,5.900 37.450,8.700 63.050,8.650 62.996,1.423 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="63.249,1.809 62.995,1.311 62.749,1.813 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="47.765,11.701 47.751,9.675 34.650,9.700 34.697,6.224 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="34.942,6.615 34.698,6.112 34.442,6.608 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="70.225,24.408 77.500,24.450 77.350,-19.700 42.700,-19.700 42.763,-22.026 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="43.002,-21.631 42.766,-22.138 42.502,-21.645 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="63.050,29.050 63.100,34.150 63.050,38.050 48.843,38.050 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="49.231,37.800 48.731,38.050 49.231,38.300 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="42.873,-29.900 42.850,-30.900 27.950,-30.950 27.921,-34.679 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="28.174,-34.293 27.920,-34.791 27.674,-34.289 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="42.873,-29.900 42.850,-30.900 51.950,-30.900 52.004,-32.226 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="52.238,-31.828 52.008,-32.338 51.738,-31.849 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="37.627,-10.647 37.700,-11.700 55.850,-11.700 55.846,-13.430 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="56.097,-13.043 55.846,-13.542 55.597,-13.042 "/>
+</svg>
