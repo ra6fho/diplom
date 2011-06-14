@@ -15,7 +15,7 @@
    id="svg7753"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="5-2.svg"
+   sodipodi:docname="6.svg"
    sodipodi:version="0.32"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/lsv/develop/diploms/Rudenko/plakats/5.png"
@@ -187,7 +187,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
      inkscape:cx="1901.9943"
-     inkscape:cy="1281.6784"
+     inkscape:cy="1395.9641"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -215,7 +215,7 @@
      transform="translate(0,1052.3622)">
     <text
        xml:space="preserve"
-       style="font-size:56.46761322px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:55.99999942;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        x="947.04498"
        y="-893.74652"
        id="text7941"
@@ -587,32 +587,32 @@
          style="font-size:20px"
          id="tspan3009-2">пользователей ОС Unix.</tspan></text>
     <image
-       y="-883.35211"
-       x="2175.3574"
+       y="-886.20923"
+       x="2043.9288"
        id="image3290"
        height="254.28571"
        width="657.85718"
        xlink:href="file:///home/anton/DIPLOM/jpeg/ris_5_1.png" />
     <image
-       y="-883.06641"
-       x="190.2858"
+       y="168.36214"
+       x="307.42871"
        id="image3361"
-       height="762.28577"
-       width="1090.8572"
+       height="808.00006"
+       width="1168"
        xlink:href="file:///home/anton/DIPLOM/jpeg/ris_5_2.png" />
     <image
-       y="-886.35211"
-       x="1346.7859"
+       y="-369.20923"
+       x="2003.9288"
        id="image3432"
        height="760.28571"
        width="749.28571"
        xlink:href="file:///home/anton/DIPLOM/jpeg/ris_5_3.png" />
     <image
-       y="-84.780693"
-       x="188.57147"
+       y="-890.495"
+       x="108.57147"
        id="image3521"
-       height="940"
-       width="1440"
+       height="1022.8571"
+       width="1625.7144"
        xlink:href="file:///home/anton/DIPLOM/jpeg/ris_5_4.png" />
   </g>
 </svg>

@@ -93,11 +93,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="1521.9178"
-     inkscape:cy="1119.687"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="519.22935"
+     inkscape:cy="1904.7365"
      inkscape:document-units="px"
-     inkscape:current-layer="g2985"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="975"
@@ -123,7 +123,7 @@
      transform="translate(0,1052.3624)">
     <text
        xml:space="preserve"
-       style="font-size:67.2549057px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:56.00000132;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        x="875.23547"
        y="-866.55652"
        id="text7745"
@@ -532,7 +532,7 @@
              font-size="0.80"
              y="-27.4"
              x="20.25"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+convolution(kernel:vfloat2d&amp;amp;,bias:float,input:vfloat2d&amp;amp;): static vfloat2d</text>
+             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+convolution(kernel:vfloat2d,bias:float,input:vfloat2d): static vfloat2d</text>
           <text
              id="text3715"
              font-weight="400"
@@ -540,7 +540,7 @@
              font-size="0.80"
              y="-26.6"
              x="20.25"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+subsampling(input:vfloat2d&amp;amp;,bias:float,weight:float): static vfloat2d</text>
+             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+subsampling(input:vfloat2d,bias:float,weight:float): static vfloat2d</text>
           <text
              id="text3717"
              font-weight="400"
@@ -548,7 +548,11 @@
              font-size="0.80"
              y="-25.799999"
              x="20.25"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+conv_and_subs(input:vfloat2d&amp;amp;,c_kernel:vfloat2d&amp;amp;,c_bias:float,s_bias:float,s_weight:float): static vfloat2d</text>
+             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">
+            <tspan
+               style="font-size:0.71079721"
+               id="tspan3078">+conv_and_subs(input:vfloat2d,c_kernel:vfloat2d,c_bias:float,s_bias:float,s_weight:float):static vfloat2d</tspan>
+          </text>
           <text
              id="text3719"
              font-weight="400"
@@ -556,7 +560,7 @@
              font-size="0.80"
              y="-25"
              x="20.25"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+sum_fmaps(fmap1:vfloat2d&amp;amp;,fmap2:vfloat2d&amp;amp;): static vfloat2d</text>
+             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+sum_fmaps(fmap1:vfloat2d,fmap2:vfloat2d): static vfloat2d</text>
           <text
              id="text3721"
              font-weight="400"
@@ -564,7 +568,7 @@
              font-size="0.80"
              y="-24.200001"
              x="20.25"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+convolution_net(input:vfloat2d&amp;amp;,data:cnn_data&amp;amp;): static float</text>
+             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+convolution_net(input:vfloat2d,data:cnn_data): static float</text>
           <text
              id="text3723"
              font-weight="400"
@@ -572,7 +576,7 @@
              font-size="0.80"
              y="-23.4"
              x="20.25"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+cnn_data_to_vfloat(data:cnn_data&amp;amp;): static vfloat</text>
+             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+cnn_data_to_vfloat(data:cnn_data): static vfloat</text>
           <text
              id="text3725"
              font-weight="400"
@@ -580,7 +584,7 @@
              font-size="0.80"
              y="-22.6"
              x="20.25"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+vfloat_to_cnn_data(data:vfloat&amp;amp;): static cnn_data</text>
+             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+vfloat_to_cnn_data(data:vfloat): static cnn_data</text>
           <rect
              id="rect3727"
              height="1.4"
@@ -702,7 +706,7 @@
              font-size="0.80"
              y="28.549999"
              x="50.575001"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+find_face(image:QImage,path_net:QString): QPoint</text>
+             style="font-size:0.65468164;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+find_face(image:QImage,path_net:QString): QPoint</text>
           <rect
              id="rect3759"
              height="1.4"
@@ -760,7 +764,11 @@
              font-size="0.80"
              y="-35.25"
              x="20.299999"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+activation(value:float): static float</text>
+             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">
+            <tspan
+               style="font-size:0.67338683"
+               id="tspan3074">+activation(value:float):static float</tspan>
+          </text>
           <rect
              id="rect3775"
              height="1.4"
@@ -842,7 +850,11 @@
              font-size="0.80"
              y="-32.799999"
              x="37.775002"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+drawRect(img:QImage&amp;amp;,width:int,height:int,length:int): static QImage</text>
+             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">
+            <tspan
+               style="font-size:0.71079721"
+               id="tspan3076">+drawRect(img:QImage,width:int,height:int,length:int):static QImage</tspan>
+          </text>
           <rect
              id="rect3797"
              height="1.4"
@@ -908,7 +920,11 @@
              font-size="0.80"
              y="-15.6"
              x="38.799999"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+random_vfloat2d(height:int,width:int,range_min:float,range_max:float): static vfloat2d</text>
+             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">
+            <tspan
+               style="font-size:0.65468164"
+               id="tspan3080">+random_vfloat2d(height:int,width:int,range_min:float,range_max:float):static vfloat2d</tspan>
+          </text>
           <text
              id="text3815"
              font-weight="400"
@@ -982,7 +998,7 @@
              font-size="0.80"
              y="0.050000001"
              x="55.950001"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+min(a:float,b:float): static float</text>
+             style="font-size:0.67338683;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+min(a:float,b:float): static float</text>
           <text
              id="text3835"
              font-weight="400"
@@ -990,7 +1006,7 @@
              font-size="0.80"
              y="0.85000002"
              x="55.950001"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+max(a:float,b:float): static float</text>
+             style="font-size:0.67338683;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+max(a:float,b:float): static float</text>
           <rect
              id="rect3837"
              height="1.4"
@@ -1048,7 +1064,7 @@
              font-size="0.80"
              y="-0.050000001"
              x="20.35"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+best_chromosome(outputs:vfloat2d&amp;amp;,target:vfloat&amp;amp;): static int</text>
+             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+best_chromosome(outputs:vfloat2d,target:vfloat): static int</text>
           <text
              id="text3853"
              font-weight="400"
@@ -1056,7 +1072,7 @@
              font-size="0.80"
              y="0.75"
              x="20.35"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+random_blx(population:vfloat2d&amp;amp;,blx_koef:double): static vfloat2d</text>
+             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+random_blx(population:vfloat2d,blx_koef:double): static vfloat2d</text>
           <text
              id="text3855"
              font-weight="400"
@@ -1064,7 +1080,7 @@
              font-size="0.80"
              y="1.55"
              x="20.35"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+tournament_selection(population:vfloat2d&amp;amp;,values:vfloat&amp;amp;): static vfloat2d</text>
+             style="font-size:0.74820759;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+tournament_selection(population:vfloat2d,values:vfloat): static vfloat2d</text>
           <text
              id="text3857"
              font-weight="400"
@@ -1072,7 +1088,7 @@
              font-size="0.80"
              y="2.3499999"
              x="20.35"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+calculate_fitness(outputs:vfloat2d&amp;amp;,target:vfloat&amp;amp;): static vfloat</text>
+             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+calculate_fitness(outputs:vfloat2d,target:vfloat): static vfloat</text>
           <text
              id="text3859"
              font-weight="400"
@@ -1080,7 +1096,7 @@
              font-size="0.80"
              y="3.1500001"
              x="20.35"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+blx_a_crossover(chromosome1:vfloat&amp;amp;,chromosome2:vfloat&amp;amp;,A:float): static vfloat</text>
+             style="font-size:0.71079721;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+blx_a_crossover(chromosome1:vfloat,chromosome2:vfloat,A:float): static vfloat</text>
           <text
              id="text3861"
              font-weight="400"
@@ -1088,7 +1104,7 @@
              font-size="0.80"
              y="3.95"
              x="20.35"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+population_mutation(population:vfloat2d&amp;amp;,chance:int): static vfloat2d</text>
+             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+population_mutation(population:vfloat2d,chance:int): static vfloat2d</text>
           <text
              id="text3863"
              font-weight="400"
@@ -1104,7 +1120,7 @@
              font-size="0.80"
              y="5.5500002"
              x="20.35"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+fitness_neural(output:vfloat&amp;amp;,target:vfloat&amp;amp;): static float</text>
+             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+fitness_neural(output:vfloat,target:vfloat): static float</text>
           <rect
              id="rect3867"
              height="1.4"
@@ -1162,7 +1178,7 @@
              font-size="0.80"
              y="14.25"
              x="20.15"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+rga_train(in:list_vfloat2d&amp;amp;,target:vfloat2d&amp;amp;,population:vfloat2d&amp;amp;,rms_error:float,blx_koef:float,step:int,max_step:int): cnn_data</text>
+             style="font-size:0.71079721;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+rga_train(in:list_vfloat2d,target:vfloat2d,population:vfloat2d,rms_error:float,blx_koef:float,step:int,max_step:int): cnn_data</text>
           <text
              id="text3883"
              font-weight="400"
@@ -1276,7 +1292,7 @@
              font-size="0.80"
              y="25.299999"
              x="20.25"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+MyCameraWindow(cam:CvCapture*,parent:QWidget*)</text>
+             style="font-size:0.65468164;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+MyCameraWindow(cam:CvCapture*,parent:QWidget*)</text>
           <text
              id="text3913"
              font-weight="400"
@@ -1374,7 +1390,11 @@
              font-size="0.80"
              y="-7.3000002"
              x="24.225"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+vfloat_sum(vector1:vfloat&amp;amp;,vector2:vfloat&amp;amp;): static vfloat</text>
+             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">
+            <tspan
+               style="font-size:0.74820759"
+               id="tspan3082">+vfloat_sum(vector1:vfloat,vector2:vfloat):static vfloat</tspan>
+          </text>
           <text
              id="text3939"
              font-weight="400"
@@ -1382,7 +1402,7 @@
              font-size="0.80"
              y="-6.5"
              x="24.225"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+vfloat_sum_elem(vector:vfloat&amp;amp;): static float</text>
+             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+vfloat_sum_elem(vector:vfloat): static float</text>
           <text
              id="text3941"
              font-weight="400"
@@ -1390,7 +1410,7 @@
              font-size="0.80"
              y="-5.6999998"
              x="24.225"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+vfloat_pow(vector:vfloat&amp;amp;,power:double): static vfloat</text>
+             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+vfloat_pow(vector:vfloat,power:double): static vfloat</text>
           <text
              id="text3943"
              font-weight="400"
@@ -1398,7 +1418,11 @@
              font-size="0.80"
              y="-4.9000001"
              x="24.225"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+vfloat_sub(vector1:vfloat&amp;amp;,vector2:vfloat&amp;amp;): static vfloat</text>
+             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">
+            <tspan
+               style="font-size:0.74820759"
+               id="tspan3084">+vfloat_sub(vector1:vfloat,vector2:vfloat):static vfloat</tspan>
+          </text>
           <rect
              id="rect3945"
              height="1.4"
@@ -1456,7 +1480,7 @@
              font-size="0.80"
              y="37.950001"
              x="26.275"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+openFaces(open_directory:QString): static list_vfloat2d</text>
+             style="font-size:0.67338683;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+openFaces(open_directory:QString):static list_vfloat2d</text>
           <text
              id="text3961"
              font-weight="400"
@@ -1464,7 +1488,7 @@
              font-size="0.80"
              y="38.75"
              x="26.275"
-             style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+save_net(data:vfloat,path_save:QString): static void</text>
+             style="font-size:0.67338683;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:monospace">+save_net(data:vfloat,path_save:QString): static void</text>
           <text
              id="text3963"
              font-weight="400"

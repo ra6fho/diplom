@@ -17,7 +17,7 @@
    sodipodi:docname="1.svg"
    sodipodi:version="0.32"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/lsv/develop/diploms/Rudenko/plakats/1.png"
+   inkscape:export-filename="/home/anton/Desktop/1.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -86,11 +86,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="2270.0124"
-     inkscape:cy="100.77236"
+     inkscape:zoom="0.35"
+     inkscape:cx="1745.3765"
+     inkscape:cy="1323.8462"
      inkscape:document-units="px"
-     inkscape:current-layer="g3622"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-page="false"
      inkscape:snap-grids="true"
@@ -107,7 +107,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -330,7 +330,7 @@
              id="tspan5113"
              x="1814.839"
              y="899.30835"
-             style="font-size:14px">Руководитель</tspan></text>
+             style="font-size:13">Руководитель</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -443,7 +443,7 @@
              id="tspan5125-3"
              x="1927.2716"
              y="1010.3965"
-             style="font-size:14px">Поляков В.М.</tspan></text>
+             style="font-size:14px" /></text>
         <text
            xml:space="preserve"
            style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -454,7 +454,7 @@
              id="tspan5125-3-8"
              x="1935.178"
              y="953.18188"
-             style="font-size:14px">Поляков В.М.</tspan></text>
+             style="font-size:14px" /></text>
         <text
            xml:space="preserve"
            style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -493,63 +493,67 @@
          x="1458.6603"
          y="-738.44037"
          style="font-size:64px;text-align:center;text-anchor:middle"
-         id="tspan2920">авторизации пользователей ОС UNIX.</tspan></text>
+         id="tspan2920">авторизации пользователей ОС Unix</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="165.66502"
-       y="553.13007"
+       style="font-size:45.141922px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="161.526"
+       y="-505.94687"
        id="text3408"
-       transform="translate(0,-1052.3622)"><tspan
+       transform="scale(1.0226759,0.97782686)"><tspan
          sodipodi:role="line"
          id="tspan3410"
-         x="165.66502"
-         y="553.13007"
-         style="font-size:56px">Целью данного дипломного проекта является разработка программного </tspan><tspan
+         x="161.526"
+         y="-505.94687"
+         style="font-size:63.19868469px">Целью данного дипломного проекта является разработка программного </tspan><tspan
          sodipodi:role="line"
-         x="165.66502"
-         y="623.13007"
-         style="font-size:56px"
+         x="161.526"
+         y="-426.94852"
+         style="font-size:63.19868469px"
          id="tspan2926">обеспечения для автоматической авторизации пользователей ОС Unix с </tspan><tspan
          sodipodi:role="line"
-         x="165.66502"
-         y="693.13007"
-         style="font-size:56px"
-         id="tspan2930">помощью изображений полученных с вебкамеры.</tspan></text>
+         x="161.526"
+         y="-347.95016"
+         style="font-size:63.19868469px"
+         id="tspan2930">помощью изображений полученных с вебкамеры</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:80.44042206px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="193.89156"
-       y="-89.740395"
+       style="font-size:87.23111725px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="218.61464"
+       y="-66.236137"
        id="text3414"
-       transform="scale(1.1332903,0.88238647)"><tspan
+       transform="scale(1.0965379,0.91196118)"><tspan
          sodipodi:role="line"
          id="tspan3416"
-         x="193.89156"
-         y="-89.740395">1) Выбрать инструментальные средства</tspan><tspan
+         x="218.61464"
+         y="-66.236137">1) Выбрать инструментальные средства;</tspan><tspan
          sodipodi:role="line"
-         x="193.89156"
-         y="10.810133"
-         id="tspan3418">2) Выбрать методы распознавания</tspan><tspan
+         x="218.61464"
+         y="42.802757"
+         id="tspan3418">2) Выбрать методы распознавания;</tspan><tspan
          sodipodi:role="line"
-         x="193.89156"
-         y="111.36066"
-         id="tspan2934">3) Построить диаграммы потоков данных</tspan><tspan
+         x="218.61464"
+         y="151.84166"
+         id="tspan2934">3) Построить диаграммы потоков данных;</tspan><tspan
          sodipodi:role="line"
-         x="193.89156"
-         y="211.91119"
-         id="tspan3420">4) Разработать модульную структуру</tspan><tspan
+         x="218.61464"
+         y="260.88055"
+         id="tspan3420">4) Разработать модульную структуру;</tspan><tspan
          sodipodi:role="line"
-         x="193.89156"
-         y="312.46173"
-         id="tspan3424">5) Построить UML-диаграмму</tspan><tspan
+         x="218.61464"
+         y="369.91943"
+         id="tspan3424">5) Построить UML-диаграмму;</tspan><tspan
          sodipodi:role="line"
-         x="193.89156"
-         y="413.01224"
-         id="tspan3426">6) Провести тестирование</tspan><tspan
+         x="218.61464"
+         y="478.95831"
+         id="tspan2925">6) Разработать пользовательский интерфейс;</tspan><tspan
          sodipodi:role="line"
-         x="193.89156"
-         y="513.56274"
+         x="218.61464"
+         y="587.99725"
+         id="tspan3426">7) Провести тестирование.</tspan><tspan
+         sodipodi:role="line"
+         x="218.61464"
+         y="697.03607"
          id="tspan3428" /></text>
     <text
        xml:space="preserve"
@@ -562,5 +566,27 @@
          id="tspan2924"
          x="2282.9448"
          y="601.61737" /></text>
-  </g>
+    <text
+       xml:space="preserve"
+       style="font-size:48.24584579px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="175.47943"
+       y="-170.2216"
+       id="text2920"
+       transform="scale(0.95289143,1.0494375)"><tspan
+         sodipodi:role="line"
+         id="tspan2922"
+         x="175.47943"
+         y="-170.2216"
+         style="font-size:57.89501572px">Задачи дипломного проектирования:</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2923"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:40px"><flowRegion
+         id="flowRegion2925"><rect
+           id="rect2927"
+           width="95.714287"
+           height="68.571426"
+           x="2034.2858"
+           y="396.15292" /></flowRegion><flowPara
+         id="flowPara2929"></flowPara></flowRoot>  </g>
 </svg>

@@ -149,11 +149,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="1166.3835"
-     inkscape:cy="1756.4615"
+     inkscape:zoom="0.7"
+     inkscape:cx="1917.5016"
+     inkscape:cy="1783.791"
      inkscape:document-units="px"
-     inkscape:current-layer="g3254"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-page="false"
      inkscape:snap-grids="true"
@@ -195,7 +195,7 @@
          id="flowPara2982"
          style="font-size:56px;text-align:center;text-anchor:middle">Описание используемых</flowPara><flowPara
          style="font-size:56px;text-align:center;text-anchor:middle"
-         id="flowPara3001">методов.</flowPara></flowRoot>    <text
+         id="flowPara3001">методов</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        x="2627.1428"
@@ -533,7 +533,7 @@
            y="996.25439"
            x="1925.7415"
            id="tspan5125-3"
-           sodipodi:role="line">Поляков В.М.</tspan></text>
+           sodipodi:role="line" /></text>
       <text
          id="text5123-3-4"
          y="939.03979"
@@ -544,7 +544,7 @@
            y="939.03979"
            x="1933.6478"
            id="tspan5125-3-8"
-           sodipodi:role="line">Поляков В.М.</tspan></text>
+           sodipodi:role="line" /></text>
     </g>
     <g
        id="g3388"
@@ -789,7 +789,7 @@
            y="1644.7244" /></flowRegion><flowPara
          id="flowPara3431" /></flowRoot>    <g
        id="g4165"
-       transform="matrix(27.830332,0,0,27.830332,1601.7307,-482.87686)">
+       transform="matrix(27.830332,0,0,27.830332,1607.445,-445.734)">
       <ellipse
          id="ellipse4072"
          ry="1.137"
@@ -1122,7 +1122,7 @@
     </g>
     <g
        id="g5572"
-       transform="matrix(26.895908,0,0,26.895908,1516.8947,97.379501)">
+       transform="matrix(26.895908,0,0,26.895908,1525.4661,154.52236)">
       <rect
          id="rect5251"
          height="2.8499999"
@@ -2197,7 +2197,7 @@
     </g>
     <g
        id="g7782"
-       transform="matrix(26.87789,0,0,25.769211,-48.820443,-274.04693)">
+       transform="matrix(26.87789,0,0,24.092402,-48.820443,-191.13542)">
       <rect
          id="rect7079"
          height="5"
@@ -4612,5 +4612,45 @@
          y="871.84692"
          style="font-size:20px"
          id="tspan3009-8">пользователей ОС Unix.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="354.28571"
+       y="-770.495"
+       id="text3507"><tspan
+         sodipodi:role="line"
+         id="tspan3509"
+         x="354.28571"
+         y="-770.495">Схема используемой сверточной нейронной сети</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="1928.5714"
+       y="-899.06641"
+       id="text3511"><tspan
+         sodipodi:role="line"
+         id="tspan3513"
+         x="1928.5714"
+         y="-899.06641">Искусственный нейрон</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="1802.8572"
+       y="-407.63782"
+       id="text3515"><tspan
+         sodipodi:role="line"
+         id="tspan3517"
+         x="1802.8572"
+         y="-407.63782">Искусственный нейрон с активационной функцией</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="2002.8572"
+       y="132.36218"
+       id="text3519"><tspan
+         sodipodi:role="line"
+         id="tspan3521"
+         x="2002.8572"
+         y="132.36218">Двухслойная нейронная сеть</tspan></text>
   </g>
 </svg>

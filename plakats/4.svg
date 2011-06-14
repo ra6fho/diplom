@@ -106,6 +106,20 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3725"
+       inkscape:persp3d-origin="550.87793 : 270.31889 : 1"
+       inkscape:vp_z="1101.7559 : 405.47833 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 405.47833 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3800"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -114,11 +128,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="2252.1257"
-     inkscape:cy="1473.5585"
+     inkscape:zoom="1.4"
+     inkscape:cx="2270.8794"
+     inkscape:cy="121.98953"
      inkscape:document-units="px"
-     inkscape:current-layer="g2985"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="975"
@@ -152,7 +166,8 @@
          sodipodi:role="line"
          id="tspan7747"
          x="875.23547"
-         y="-866.55652">Диаграммы потоков данных</tspan></text>
+         y="-866.55652"
+         style="font-size:56.00000132">Диаграммы потоков данных</tspan></text>
     <g
        id="g3069">
       <rect
@@ -481,7 +496,7 @@
              id="tspan5125-3"
              x="1905.0482"
              y="1004.3353"
-             style="font-size:14px">Поляков В.М.</tspan></text>
+             style="font-size:14px" /></text>
         <text
            xml:space="preserve"
            style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -492,12 +507,12 @@
              id="tspan5125-3-8"
              x="1912.9546"
              y="947.12073"
-             style="font-size:14px">Поляков В.М.</tspan></text>
+             style="font-size:14px" /></text>
       </g>
     </g>
     <g
        id="g3466"
-       transform="matrix(32.302289,0,0,32.302289,-18.066186,-658.77297)">
+       transform="matrix(34.955426,0,0,37.894916,-89.951172,-616.7855)">
       <ellipse
          id="ellipse3411"
          ry="2.1270001"
@@ -646,7 +661,7 @@
     </g>
     <g
        id="g3779"
-       transform="matrix(43.501324,0,0,45.385566,-313.97324,-410.07096)">
+       transform="matrix(53.276456,0,0,58.144391,781.64553,-1395.9092)">
       <ellipse
          id="ellipse3738"
          ry="1.9680001"
@@ -760,7 +775,7 @@
     </g>
     <g
        id="g4121"
-       transform="matrix(44.286467,0,0,52.995612,1314.5693,-531.18986)">
+       transform="matrix(44.907133,0,0,76.695564,1296.9557,-316.46765)">
       <ellipse
          id="ellipse4062"
          ry="1.352"
@@ -940,5 +955,303 @@
          y="874.8772"
          style="font-size:20px"
          id="tspan3009-4">пользователей ОС Unix.</tspan></text>
+    <g
+       id="g3728"
+       transform="matrix(35.191106,0,0,39.338463,-173.06168,-301.34323)">
+      <rect
+         id="rect3627"
+         height="1.9"
+         width="5.823"
+         y="9.1000004"
+         x="19.139"
+         style="fill:#ffffff;stroke:none" />
+      <rect
+         id="rect3629"
+         height="1.9"
+         width="5.823"
+         y="9.1000004"
+         x="19.139"
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <text
+         id="text3631"
+         font-weight="400"
+         font-style="normal"
+         font-size="0.80"
+         y="10.245"
+         x="22.049999"
+         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Пользователь</text>
+      <rect
+         id="rect3633"
+         height="1.9"
+         width="9.7580004"
+         y="14.2"
+         x="17.121"
+         style="fill:#ffffff;stroke:none" />
+      <rect
+         id="rect3635"
+         height="1.9"
+         width="9.7580004"
+         y="14.2"
+         x="17.121"
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <text
+         id="text3637"
+         font-weight="400"
+         font-style="normal"
+         font-size="0.80"
+         y="15.345"
+         x="22"
+         style="font-size:0.64503917;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Интерфейс пользователя</text>
+      <rect
+         id="rect3639"
+         height="1.9"
+         width="5.1900001"
+         y="19.15"
+         x="19.26"
+         style="fill:#ffffff;stroke:none" />
+      <rect
+         id="rect3641"
+         height="1.9"
+         width="5.1900001"
+         y="19.15"
+         x="19.26"
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <text
+         id="text3643"
+         font-weight="400"
+         font-style="normal"
+         font-size="0.80"
+         y="20.295"
+         x="21.855"
+         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Обучение</text>
+      <rect
+         id="rect3645"
+         height="1.9"
+         width="4.8000002"
+         y="24.1"
+         x="19.450001"
+         style="fill:#ffffff;stroke:none" />
+      <rect
+         id="rect3647"
+         height="1.9"
+         width="4.8000002"
+         y="24.1"
+         x="19.450001"
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <text
+         id="text3649"
+         font-weight="400"
+         font-style="normal"
+         font-size="0.80"
+         y="25.245001"
+         x="21.85"
+         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">ГА</text>
+      <line
+         id="line3651"
+         y2="13.976"
+         x2="22.003"
+         y1="11.224"
+         x1="22.047001"
+         style="stroke:#000000;stroke-width:0.1" />
+      <polyline
+         id="polyline3653"
+         points="22.290,11.616 22.048,11.112 21.790,11.608 "
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <polyline
+         id="polyline3655"
+         points="21.760,13.584 22.002,14.088 22.260,13.592 "
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <line
+         id="line3657"
+         y2="18.878"
+         x2="21.891001"
+         y1="16.372"
+         x1="21.964001"
+         style="stroke:#000000;stroke-width:0.1" />
+      <polyline
+         id="polyline3659"
+         points="22.203,16.767 21.967,16.260 21.703,16.752 "
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <polyline
+         id="polyline3661"
+         points="21.652,18.483 21.888,18.990 22.152,18.498 "
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <line
+         id="line3663"
+         y2="23.827999"
+         x2="21.851"
+         y1="21.322001"
+         x1="21.854"
+         style="stroke:#000000;stroke-width:0.1" />
+      <polyline
+         id="polyline3665"
+         points="22.103,21.710 21.854,21.210 21.603,21.710 "
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <polyline
+         id="polyline3667"
+         points="21.602,23.440 21.851,23.940 22.102,23.440 "
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <rect
+         id="rect3669"
+         height="1.9"
+         width="6.1880002"
+         y="21.238001"
+         x="7.5560002"
+         style="fill:#ffffff;stroke:none" />
+      <rect
+         id="rect3671"
+         height="1.9"
+         width="6.1880002"
+         y="21.238001"
+         x="7.5560002"
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <text
+         id="text3673"
+         font-weight="400"
+         font-style="normal"
+         font-size="0.80"
+         y="22.382999"
+         x="10.65"
+         style="font-size:0.7525457;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Распознавание</text>
+      <line
+         id="line3675"
+         y2="16.268"
+         x2="20.197001"
+         y1="21.069"
+         x1="12.453"
+         style="stroke:#000000;stroke-width:0.1" />
+      <polyline
+         id="polyline3677"
+         points="12.652,20.652 12.358,21.128 12.915,21.077 "
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <polyline
+         id="polyline3679"
+         points="19.998,16.685 20.292,16.209 19.735,16.260 "
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <rect
+         id="rect3681"
+         height="2.7"
+         width="8.5270004"
+         y="29.188"
+         x="17.586"
+         style="fill:#ffffff;stroke:none" />
+      <rect
+         id="rect3683"
+         height="2.7"
+         width="8.5270004"
+         y="29.188"
+         x="17.586"
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <text
+         id="text3685"
+         font-weight="400"
+         font-style="normal"
+         font-size="0.80"
+         y="30.332001"
+         x="21.85"
+         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Сверточная</text>
+      <text
+         id="text3687"
+         font-weight="400"
+         font-style="normal"
+         font-size="0.80"
+         y="31.132999"
+         x="21.85"
+         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">нейронная сеть</text>
+      <line
+         id="line3689"
+         y2="28.915001"
+         x2="21.85"
+         y1="26.274"
+         x1="21.85"
+         style="stroke:#000000;stroke-width:0.1" />
+      <polyline
+         id="polyline3691"
+         points="22.100,26.662 21.850,26.162 21.600,26.662 "
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <polyline
+         id="polyline3693"
+         points="21.600,28.526 21.850,29.026 22.100,28.526 "
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <line
+         id="line3695"
+         y2="29.004"
+         x2="19.794001"
+         y1="23.320999"
+         x1="12.17"
+         style="stroke:#000000;stroke-width:0.1" />
+      <polyline
+         id="polyline3697"
+         points="12.631,23.353 12.081,23.254 12.332,23.754 "
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <polyline
+         id="polyline3699"
+         points="19.333,28.973 19.883,29.071 19.632,28.572 "
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <rect
+         id="rect3701"
+         height="1.9"
+         width="8.3999996"
+         y="21.087"
+         x="30.15"
+         style="fill:#ffffff;stroke:none" />
+      <rect
+         id="rect3703"
+         height="1.9"
+         width="8.3999996"
+         y="21.087"
+         x="30.15"
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <text
+         id="text3705"
+         font-weight="400"
+         font-style="normal"
+         font-size="0.80"
+         y="22.232"
+         x="34.349998"
+         style="font-size:0.64503917;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Результаты обучения</text>
+      <line
+         id="line3707"
+         y2="23.160999"
+         x2="32.696999"
+         y1="29.011999"
+         x1="24.093"
+         style="stroke:#000000;stroke-width:0.1" />
+      <polyline
+         id="polyline3709"
+         points="24.274,28.587 24.001,29.075 24.555,29.000 "
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <polyline
+         id="polyline3711"
+         points="32.517,23.586 32.790,23.099 32.236,23.173 "
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <line
+         id="line3713"
+         y2="23.084"
+         x2="30.007"
+         y1="24.407"
+         x1="24.516001"
+         style="stroke:#000000;stroke-width:0.1" />
+      <polyline
+         id="polyline3715"
+         points="24.835,24.073 24.408,24.434 24.952,24.559 "
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+      <polyline
+         id="polyline3717"
+         points="29.688,23.418 30.115,23.058 29.571,22.932 "
+         style="fill:none;stroke:#000000;stroke-width:0.1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:67.2549057px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="358.08191"
+       y="27.873585"
+       id="text7745-3"
+       transform="scale(0.95407757,1.0481328)"><tspan
+         sodipodi:role="line"
+         id="tspan7747-5"
+         x="358.08191"
+         y="27.873585"
+         style="font-size:56px">Структура системы</tspan></text>
   </g>
 </svg>

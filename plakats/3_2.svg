@@ -149,9 +149,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994948"
-     inkscape:cx="1039.2639"
-     inkscape:cy="2057.9079"
+     inkscape:zoom="1.4"
+     inkscape:cx="2027.9811"
+     inkscape:cy="78.738686"
      inkscape:document-units="px"
      inkscape:current-layer="g2751"
      showgrid="false"
@@ -520,7 +520,7 @@
              id="tspan5125-3"
              x="1925.7415"
              y="996.25439"
-             style="font-size:14px">Поляков В.М.</tspan></text>
+             style="font-size:14px" /></text>
         <text
            xml:space="preserve"
            style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -531,7 +531,7 @@
              id="tspan5125-3-8"
              x="1933.6478"
              y="939.03979"
-             style="font-size:14px">Поляков В.М.</tspan></text>
+             style="font-size:14px" /></text>
         <text
            xml:space="preserve"
            style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -557,7 +557,7 @@
     </g>
     <g
        id="g4663"
-       transform="matrix(25.077297,0,0,24.383295,944.99673,245.07329)">
+       transform="matrix(25.077297,0,0,24.383295,942.13959,313.64472)">
       <rect
          id="rect4582"
          height="3.5"
@@ -1038,7 +1038,7 @@
     </g>
     <g
        id="g7099"
-       transform="matrix(34.127566,0,0,34.127566,1360.2411,-1012.9174)">
+       transform="matrix(31.795204,0,0,30.031579,1427.763,-923.92632)">
       <rect
          id="rect6886"
          height="6.8499999"
@@ -2125,156 +2125,168 @@
        transform="matrix(30.738154,0,0,30.738154,18.621266,-997.59567)">
       <path
          id="path8804"
-         d="m 20.067,2.25 5.866,0 c 0.81,0 1.467,0.627 1.467,1.4 0,0.773 -0.657,1.4 -1.467,1.4 l -5.866,0 c -0.81,0 -1.467,-0.627 -1.467,-1.4 0,-0.773 0.657,-1.4 1.467,-1.4"
+         d="m 18.951588,5.1314817 5.866,0 c 0.81,0 1.467,0.627 1.467,1.4 0,0.773 -0.657,1.4 -1.467,1.4 l -5.866,0 c -0.81,0 -1.467,-0.627 -1.467,-1.4 0,-0.773 0.657,-1.4 1.467,-1.4"
          style="fill:#ffffff;stroke:none" />
       <path
          id="path8806"
-         d="m 20.067,2.25 5.866,0 c 0.81,0 1.467,0.627 1.467,1.4 0,0.773 -0.657,1.4 -1.467,1.4 l -5.866,0 c -0.81,0 -1.467,-0.627 -1.467,-1.4 0,-0.773 0.657,-1.4 1.467,-1.4"
+         d="m 18.951588,5.1314817 5.866,0 c 0.81,0 1.467,0.627 1.467,1.4 0,0.773 -0.657,1.4 -1.467,1.4 l -5.866,0 c -0.81,0 -1.467,-0.627 -1.467,-1.4 0,-0.773 0.657,-1.4 1.467,-1.4"
          style="fill:none;stroke:#000000;stroke-width:0.1" />
       <text
          id="text8808"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="3.8499999"
-         x="23"
+         y="6.7314816"
+         x="21.884588"
          style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Начало</text>
       <polygon
          id="polygon8810"
-         points="26.704,10.075 18.309,10.075 19.355,7.2 27.75,7.2 "
-         style="fill:#ffffff;stroke:none" />
+         points="18.309,10.075 19.355,7.2 27.75,7.2 26.704,10.075 "
+         style="fill:#ffffff;stroke:none"
+         transform="translate(-1.1154123,2.8814817)" />
       <polygon
          id="polygon8812"
-         points="26.704,10.075 18.309,10.075 19.355,7.2 27.75,7.2 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         points="18.309,10.075 19.355,7.2 27.75,7.2 26.704,10.075 "
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <text
          id="text8814"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="8.4320002"
-         x="23.028999"
-         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Искомая популяция</text>
+         y="11.313482"
+         x="21.913588"
+         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">
+        <tspan
+           style="font-size:0.71572286px"
+           id="tspan3219">Искомая популяция</tspan>
+      </text>
       <text
          id="text8816"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="9.2320004"
-         x="23.028999"
-         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">хромосом</text>
+         y="12.113482"
+         x="21.913588"
+         style="font-size:0.71572288;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">хромосом</text>
       <line
          id="line8818"
-         y2="6.927"
-         x2="23.018999"
-         y1="5.0999999"
-         x1="23.009001"
+         y2="9.8084822"
+         x2="21.903587"
+         y1="7.9814816"
+         x1="21.893589"
          style="stroke:#000000;stroke-width:0.1" />
       <polyline
          id="polyline8820"
          points="22.767,6.540 23.020,7.039 23.267,6.537 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <rect
          id="rect8822"
          height="2.95"
          width="7.3000002"
-         y="12.95"
-         x="19.4"
+         y="15.831482"
+         x="18.284588"
          style="fill:#ffffff;stroke:none" />
       <rect
          id="rect8824"
          height="2.95"
          width="7.3000002"
-         y="12.95"
-         x="19.4"
+         y="15.831482"
+         x="18.284588"
          style="fill:none;stroke:#000000;stroke-width:0.1" />
       <text
          id="text8826"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="14.22"
-         x="23.049999"
+         y="17.101482"
+         x="21.934587"
          style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Декодирование</text>
       <text
          id="text8828"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="15.02"
-         x="23.049999"
+         y="17.901482"
+         x="21.934587"
          style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">хромосом</text>
       <line
          id="line8830"
-         y2="12.726"
-         x2="23.049"
-         y1="10.125"
-         x1="23.035999"
+         y2="15.607482"
+         x2="21.933588"
+         y1="13.006482"
+         x1="21.920588"
          style="stroke:#000000;stroke-width:0.1" />
       <polyline
          id="polyline8832"
          points="22.797,12.339 23.049,12.838 23.297,12.337 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <polygon
          id="polygon8834"
-         points="27.278,21.62 17.519,21.62 18.793,18.12 28.552,18.12 "
-         style="fill:#ffffff;stroke:none" />
+         points="17.519,21.62 18.793,18.12 28.552,18.12 27.278,21.62 "
+         style="fill:#ffffff;stroke:none"
+         transform="translate(-1.1154123,2.8814817)" />
       <polygon
          id="polygon8836"
-         points="27.278,21.62 17.519,21.62 18.793,18.12 28.552,18.12 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         points="17.519,21.62 18.793,18.12 28.552,18.12 27.278,21.62 "
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <text
          id="text8838"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="19.264999"
-         x="23.035999"
-         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Множество нейронных</text>
+         y="22.146481"
+         x="21.920588"
+         style="font-size:0.71572288;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Множество нейронных</text>
       <text
          id="text8840"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="20.065001"
-         x="23.035999"
-         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">сетей с заданными</text>
+         y="22.946482"
+         x="21.920588"
+         style="font-size:0.71572288;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">сетей с заданными</text>
       <text
          id="text8842"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="20.865"
-         x="23.035999"
-         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">весами</text>
+         y="23.746481"
+         x="21.920588"
+         style="font-size:0.71572288;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">весами</text>
       <line
          id="line8844"
-         y2="17.847"
-         x2="23.042999"
-         y1="15.9"
-         x1="23.049999"
+         y2="20.728481"
+         x2="21.927588"
+         y1="18.781481"
+         x1="21.934587"
          style="stroke:#000000;stroke-width:0.1" />
       <polyline
          id="polyline8846"
          points="22.794,17.457 23.043,17.958 23.294,17.459 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <line
          id="line8848"
-         y2="24.221001"
-         x2="23.014999"
-         y1="21.67"
-         x1="23.027"
+         y2="27.102482"
+         x2="21.899588"
+         y1="24.551481"
+         x1="21.911589"
          style="stroke:#000000;stroke-width:0.1" />
       <polyline
          id="polyline8850"
          points="22.767,23.832 23.015,24.333 23.267,23.834 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <rect
          id="rect8852"
          height="10.6"
          width="16.200001"
-         y="11.9"
-         x="14.95"
+         y="14.781482"
+         x="13.834587"
          style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:0.1, 0.1" />
       <text
          id="text8854"
@@ -2288,353 +2300,440 @@
          id="rect8856"
          height="5.9000001"
          width="16.15"
-         y="24.488001"
-         x="14.925"
+         y="27.369482"
+         x="13.809587"
          style="fill:#ffffff;stroke:none" />
       <rect
          id="rect8858"
          height="5.9000001"
          width="16.15"
-         y="24.488001"
-         x="14.925"
+         y="27.369482"
+         x="13.809587"
          style="fill:none;stroke:#000000;stroke-width:0.1" />
       <text
          id="text8860"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="25.632999"
-         x="23"
-         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Расчет абсолютной</text>
+         y="28.514481"
+         x="21.884588"
+         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">
+        <tspan
+           style="font-size:0.71572288"
+           id="tspan3253">Расчет абсолютной</tspan>
+      </text>
       <text
          id="text8862"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="26.433001"
-         x="23"
-         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">среднеквадратичной погрешности</text>
+         y="29.314482"
+         x="21.884588"
+         style="font-size:0.71572288;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">среднеквадратичной погрешности</text>
       <text
          id="text8864"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="27.233"
-         x="23"
-         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">между фактическим и заданным значением</text>
+         y="30.114481"
+         x="21.884588"
+         style="font-size:0.68319002;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">между фактическим и заданным значением</text>
       <text
          id="text8866"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="28.033001"
-         x="23"
-         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">на выходах сетей</text>
+         y="30.914482"
+         x="21.884588"
+         style="font-size:0.71572288;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">на выходах сетей</text>
       <text
          id="text8868"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="28.833"
-         x="23"
-         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">на основе обучающих эталонов,</text>
+         y="31.714481"
+         x="21.884588"
+         style="font-size:0.71572288;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">на основе обучающих эталонов,</text>
       <text
          id="text8870"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="29.632999"
-         x="23"
-         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">подаваемых в каждую сеть</text>
+         y="32.514481"
+         x="21.884588"
+         style="font-size:0.71572288;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">подаваемых в каждую сеть</text>
       <polygon
          id="polygon8872"
-         points="30.075,35.445 15.05,35.445 16.096,32.57 31.121,32.57 "
-         style="fill:#ffffff;stroke:none" />
+         points="15.05,35.445 16.096,32.57 31.121,32.57 30.075,35.445 "
+         style="fill:#ffffff;stroke:none"
+         transform="translate(-1.1154123,2.8814817)" />
       <polygon
          id="polygon8874"
-         points="30.075,35.445 15.05,35.445 16.096,32.57 31.121,32.57 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         points="15.05,35.445 16.096,32.57 31.121,32.57 30.075,35.445 "
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <text
          id="text8876"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="33.803001"
-         x="23.086"
-         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Значение функции приспособленности</text>
+         y="36.661243"
+         x="22.133253"
+         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">
+        <tspan
+           style="font-size:0.71572286px"
+           id="tspan3249">Значение функции приспособленности</tspan>
+      </text>
       <text
          id="text8878"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="34.602001"
-         x="23.086"
-         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">каждой хромосомы в популяции</text>
+         y="37.483482"
+         x="21.970589"
+         style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">
+        <tspan
+           style="font-size:0.71572288"
+           id="tspan3251">каждой хромосомы в популяции</tspan>
+      </text>
       <line
          id="line8880"
-         y2="32.297001"
-         x2="23.045"
-         y1="30.386999"
-         x1="23"
+         y2="35.178482"
+         x2="21.929588"
+         y1="33.268482"
+         x1="21.884588"
          style="stroke:#000000;stroke-width:0.1" />
       <polyline
          id="polyline8882"
          points="22.786,31.915 23.048,32.409 23.286,31.903 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <polygon
          id="polygon8884"
-         points="23.057,42.172 14.317,39.987 23.057,37.801 31.797,39.987 "
-         style="fill:#ffffff;stroke:none" />
+         points="14.317,39.987 23.057,37.801 31.797,39.987 23.057,42.172 "
+         style="fill:#ffffff;stroke:none"
+         transform="translate(-1.1154123,2.8814817)" />
       <polygon
          id="polygon8886"
-         points="23.057,42.172 14.317,39.987 23.057,37.801 31.797,39.987 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         points="14.317,39.987 23.057,37.801 31.797,39.987 23.057,42.172 "
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <text
          id="text8888"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="39.782001"
-         x="23.056999"
+         y="42.663483"
+         x="21.941587"
          style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Условие завершения</text>
       <text
          id="text8890"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="40.582001"
-         x="23.056999"
+         y="43.463482"
+         x="21.941587"
          style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">выполнено</text>
       <line
          id="line8892"
-         y2="37.577999"
-         x2="23.059"
-         y1="35.493999"
-         x1="23.073999"
+         y2="40.45948"
+         x2="21.943588"
+         y1="38.375481"
+         x1="21.958588"
          style="stroke:#000000;stroke-width:0.1" />
       <polyline
          id="polyline8894"
          points="22.812,37.188 23.058,37.690 23.312,37.192 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <polygon
          id="polygon8896"
-         points="37.51,47.733 29.115,47.733 30.161,44.858 38.556,44.858 "
-         style="fill:#ffffff;stroke:none" />
+         points="29.115,47.733 30.161,44.858 38.556,44.858 37.51,47.733 "
+         style="fill:#ffffff;stroke:none"
+         transform="translate(-1.1154123,2.8814817)" />
       <polygon
          id="polygon8898"
-         points="37.51,47.733 29.115,47.733 30.161,44.858 38.556,44.858 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         points="29.115,47.733 30.161,44.858 38.556,44.858 37.51,47.733 "
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <text
          id="text8900"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="46.09"
-         x="33.835999"
+         y="48.971481"
+         x="32.720585"
          style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">&quot;Наилучшая&quot;</text>
       <text
          id="text8902"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="46.889999"
-         x="33.835999"
+         y="49.771481"
+         x="32.720585"
          style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">комбинация весов</text>
       <polyline
          id="polyline8904"
          points="31.797,39.987 31.797,40.013 33.836,40.013 33.836,44.585 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <polyline
          id="polyline8906"
          points="33.586,44.197 33.836,44.697 34.086,44.197 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <path
          id="path8908"
-         d="m 30.832,49.945 5.866,0 c 0.81,0 1.467,0.627 1.467,1.4 0,0.773 -0.657,1.4 -1.467,1.4 l -5.866,0 c -0.81,0 -1.467,-0.627 -1.467,-1.4 0,-0.773 0.657,-1.4 1.467,-1.4"
+         d="m 29.716588,52.826482 5.866,0 c 0.81,0 1.467,0.627 1.467,1.4 0,0.773 -0.657,1.4 -1.467,1.4 l -5.866,0 c -0.81,0 -1.467,-0.627 -1.467,-1.4 0,-0.773 0.657,-1.4 1.467,-1.4"
          style="fill:#ffffff;stroke:none" />
       <path
          id="path8910"
-         d="m 30.832,49.945 5.866,0 c 0.81,0 1.467,0.627 1.467,1.4 0,0.773 -0.657,1.4 -1.467,1.4 l -5.866,0 c -0.81,0 -1.467,-0.627 -1.467,-1.4 0,-0.773 0.657,-1.4 1.467,-1.4"
+         d="m 29.716588,52.826482 5.866,0 c 0.81,0 1.467,0.627 1.467,1.4 0,0.773 -0.657,1.4 -1.467,1.4 l -5.866,0 c -0.81,0 -1.467,-0.627 -1.467,-1.4 0,-0.773 0.657,-1.4 1.467,-1.4"
          style="fill:none;stroke:#000000;stroke-width:0.1" />
       <text
          id="text8912"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="51.544998"
-         x="33.764999"
+         y="54.426479"
+         x="32.649586"
          style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Конец</text>
       <line
          id="line8914"
-         y2="49.671001"
-         x2="33.787998"
-         y1="47.783001"
-         x1="33.814999"
+         y2="52.552483"
+         x2="32.672585"
+         y1="50.664482"
+         x1="32.699585"
          style="stroke:#000000;stroke-width:0.1" />
       <polyline
          id="polyline8916"
          points="33.544,49.280 33.787,49.783 34.044,49.287 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <rect
          id="rect8918"
          height="3.05"
          width="8.75"
-         y="44.650002"
-         x="7.8499999"
+         y="47.531483"
+         x="6.7345877"
          style="fill:#ffffff;stroke:none" />
       <rect
          id="rect8920"
          height="3.05"
          width="8.75"
-         y="44.650002"
-         x="7.8499999"
+         y="47.531483"
+         x="6.7345877"
          style="fill:none;stroke:#000000;stroke-width:0.1" />
       <text
          id="text8922"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="45.970001"
-         x="12.225"
+         y="48.851482"
+         x="11.109588"
          style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Селекция</text>
       <text
          id="text8924"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="46.77"
-         x="12.225"
+         y="49.651482"
+         x="11.109588"
          style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">хромосом</text>
       <polyline
          id="polyline8926"
          points="14.317,39.987 14.317,39.962 12.225,39.962 12.225,44.426 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <polyline
          id="polyline8928"
          points="11.975,44.038 12.225,44.538 12.475,44.038 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <rect
          id="rect8930"
          height="3.5"
          width="8.75"
-         y="49.983002"
-         x="7.8150001"
+         y="52.864483"
+         x="6.6995878"
          style="fill:#ffffff;stroke:none" />
       <rect
          id="rect8932"
          height="3.5"
          width="8.75"
-         y="49.983002"
-         x="7.8150001"
+         y="52.864483"
+         x="6.6995878"
          style="fill:none;stroke:#000000;stroke-width:0.1" />
       <text
          id="text8934"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="51.127998"
-         x="12.19"
+         y="54.00948"
+         x="11.074587"
          style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Применение</text>
       <text
          id="text8936"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="51.928001"
-         x="12.19"
+         y="54.809483"
+         x="11.074587"
          style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">генетических</text>
       <text
          id="text8938"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="52.727001"
-         x="12.19"
+         y="55.608482"
+         x="11.074587"
          style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">операторов</text>
       <line
          id="line8940"
-         y2="49.709"
-         x2="12.203"
-         y1="47.75"
-         x1="12.215"
+         y2="52.590481"
+         x2="11.087587"
+         y1="50.631481"
+         x1="11.099587"
          style="stroke:#000000;stroke-width:0.1" />
       <polyline
          id="polyline8942"
          points="11.955,49.319 12.202,49.821 12.455,49.322 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <rect
          id="rect8944"
          height="3.5"
          width="8.75"
-         y="55.82"
-         x="7.8150001"
+         y="58.701481"
+         x="6.6995878"
          style="fill:#ffffff;stroke:none" />
       <rect
          id="rect8946"
          height="3.5"
          width="8.75"
-         y="55.82"
-         x="7.8150001"
+         y="58.701481"
+         x="6.6995878"
          style="fill:none;stroke:#000000;stroke-width:0.1" />
       <text
          id="text8948"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="56.965"
-         x="12.19"
+         y="59.846481"
+         x="11.074587"
          style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Создание</text>
       <text
          id="text8950"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="57.764999"
-         x="12.19"
+         y="60.646481"
+         x="11.074587"
          style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">новой</text>
       <text
          id="text8952"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="58.564999"
-         x="12.19"
+         y="61.44648"
+         x="11.074587"
          style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">популяции</text>
       <line
          id="line8954"
-         y2="55.546001"
-         x2="12.19"
-         y1="53.533001"
-         x1="12.19"
+         y2="58.427483"
+         x2="11.074587"
+         y1="56.414482"
+         x1="11.074587"
          style="stroke:#000000;stroke-width:0.1" />
       <polyline
          id="polyline8956"
          points="11.940,55.158 12.190,55.658 12.440,55.158 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <polyline
          id="polyline8958"
          points="12.190,59.320 12.250,61.725 5.250,61.675 5.250,10.925 21.200,10.875 21.222,12.726 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <polyline
          id="polyline8960"
          points="20.968,12.341 21.224,12.838 21.468,12.335 "
-         style="fill:none;stroke:#000000;stroke-width:0.1" />
+         style="fill:none;stroke:#000000;stroke-width:0.1"
+         transform="translate(-1.1154123,2.8814817)" />
       <text
          id="text8962"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="39.462002"
-         x="32.150002"
+         y="42.343483"
+         x="31.03459"
          style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">Да</text>
       <text
          id="text8964"
          font-weight="400"
          font-style="normal"
          font-size="0.80"
-         y="39.412998"
-         x="12.9"
+         y="42.294479"
+         x="11.784587"
          style="font-size:0.80000001px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">Нет</text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.30131435px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="41.593964"
+         y="41.594215"
+         id="text3221"><tspan
+           sodipodi:role="line"
+           id="tspan3223"
+           x="41.593964"
+           y="41.594215">Схема простого гене-</tspan><tspan
+           sodipodi:role="line"
+           x="41.593964"
+           y="43.22086"
+           id="tspan3227">тического алгоритма</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.30131435px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="73.011414"
+         y="31.927305"
+         id="text3229"><tspan
+           sodipodi:role="line"
+           id="tspan3231"
+           x="73.011414"
+           y="31.927305">Схема турнирной селекции</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.30131435px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="46.613319"
+         y="1.4393685"
+         id="text3233"><tspan
+           sodipodi:role="line"
+           id="tspan3235"
+           x="46.613319"
+           y="1.4393685">Иллюстрация оператора скрещивания</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.30131435px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="47.542828"
+         y="25.420734"
+         id="text3237"><tspan
+           sodipodi:role="line"
+           id="tspan3239"
+           x="47.542828"
+           y="25.420734">Иллюстрация оператора мутации</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.30131435px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="3.669945"
+         y="1.6252707"
+         id="text3243"><tspan
+           sodipodi:role="line"
+           id="tspan3245"
+           x="3.669945"
+           y="1.6252707">Блок-схема генетического алгоритма поиска</tspan><tspan
+           sodipodi:role="line"
+           x="3.669945"
+           y="3.2519135"
+           id="tspan3247">наилучшего набора весов нейронной сети </tspan></text>
     </g>
   </g>
 </svg>
