@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="31.094cm" height="22.887cm" viewBox="7.506 9.050 38.600 31.938"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="19.139" y="9.100" width="5.823" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="19.139" y="9.100" width="5.823" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="22.050" y="10.245"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Пользователь</text>
+<rect x="17.121" y="14.200" width="9.758" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="17.121" y="14.200" width="9.758" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="22.000" y="15.345"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Интерфейс пользователя</text>
+<rect x="19.260" y="19.150" width="5.190" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="19.260" y="19.150" width="5.190" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="21.855" y="20.295"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Обучение</text>
+<rect x="19.450" y="24.100" width="4.800" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="19.450" y="24.100" width="4.800" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="21.850" y="25.245"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+ГА</text>
+<line x1="22.047" y1="11.224" x2="22.003" y2="13.976" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="22.290,11.616 22.048,11.112 21.790,11.608 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="21.760,13.584 22.002,14.088 22.260,13.592 "/>
+<line x1="21.964" y1="16.372" x2="21.891" y2="18.878" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="22.203,16.767 21.967,16.260 21.703,16.752 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="21.652,18.483 21.888,18.990 22.152,18.498 "/>
+<line x1="21.854" y1="21.322" x2="21.851" y2="23.828" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="22.103,21.710 21.854,21.210 21.603,21.710 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="21.602,23.440 21.851,23.940 22.102,23.440 "/>
+<rect x="7.556" y="21.238" width="6.188" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.556" y="21.238" width="6.188" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="10.650" y="22.383"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Распознавание</text>
+<line x1="12.453" y1="21.069" x2="20.197" y2="16.268" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="12.652,20.652 12.358,21.128 12.915,21.077 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="19.998,16.685 20.292,16.209 19.735,16.260 "/>
+<rect x="17.586" y="29.188" width="8.527" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="17.586" y="29.188" width="8.527" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="21.850" y="30.332"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Сверточная</text>
+<text x="21.850" y="31.133"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+нейронная сеть</text>
+<line x1="21.850" y1="26.274" x2="21.850" y2="28.915" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="22.100,26.662 21.850,26.162 21.600,26.662 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="21.600,28.526 21.850,29.026 22.100,28.526 "/>
+<line x1="12.170" y1="23.321" x2="19.794" y2="29.004" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="12.631,23.353 12.081,23.254 12.332,23.754 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="19.333,28.973 19.883,29.071 19.632,28.572 "/>
+<rect x="30.150" y="21.087" width="8.400" height="1.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="30.150" y="21.087" width="8.400" height="1.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="34.350" y="22.232"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Результаты обучения</text>
+<line x1="24.093" y1="29.012" x2="32.697" y2="23.161" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="24.274,28.587 24.001,29.075 24.555,29.000 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="32.517,23.586 32.790,23.099 32.236,23.173 "/>
+<line x1="24.516" y1="24.407" x2="30.007" y2="23.084" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="24.835,24.073 24.408,24.434 24.952,24.559 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="29.688,23.418 30.115,23.058 29.571,22.932 "/>
+</svg>
